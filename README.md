@@ -3,6 +3,8 @@
 [D2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D2%20DT.png
 [D2.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D%202.1%20DT.png
 [D2.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D%202.2%20DT.png
+[D3.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D3.1%20DT.jpg
+[D3.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D3.2%20DT.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -13,7 +15,7 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
  3. I started with the welcome lesson to the course.  It seems I have 5 lessons to go through, I started with the first lesson(1.1-1.2).
  4. Begin by taking notes from Lesson 1.
  
-### Advance Day 1
+### My progress Day 1
 
 ![Advance Day 1][D1]
 
@@ -24,9 +26,16 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
  1. Continue with lesson number 1 the analytical Problem (1.3-1.5)
  2. I participated in the slack, motivating my colleagues a little with a phrase that I really like
  
-### Advance Day 2
+### My progress Day 2
 ![Advance Day 2][D2]
 ![Advance Day 2][D2.1]
 
 ### Let's start this new learning challenge together with great strength and encouragement :purple_heart::blush::star-struck:
 ![Advance Day 2][D2.2]
+
+## Day 3: Saturday, December 5, 2020
+ 1. Continue with lesson number 1 the analytical Problem (1.6-1.7)
+ 
+### My progress Day 3
+![Advance Day 3][D3.1]
+![Advance Day 3][D3.2]
