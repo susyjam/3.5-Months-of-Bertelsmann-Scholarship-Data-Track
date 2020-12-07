@@ -5,6 +5,8 @@
 [D2.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D%202.2%20DT.png
 [D3.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D3.1%20DT.jpg
 [D3.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D3.2%20DT.jpg
+[D4.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.1%20DT.jpg
+[D4.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.2%20DT.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -39,3 +41,11 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
 ### My progress Day 3
 ![Advance Day 3][D3.1]
 ![Advance Day 3][D3.2]
+
+## Day 4: Sunday, December 6, 2020
+ 1. I finished with lesson number 1 the analytical Problem (1.8-1.9)
+ 
+### My progress Day 4
+![Advance Day 4][D4.1]
+![Advance Day 4][D4.2]
+
