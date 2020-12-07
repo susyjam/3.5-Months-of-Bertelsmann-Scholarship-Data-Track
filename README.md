@@ -7,6 +7,7 @@
 [D3.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D3.2%20DT.jpg
 [D4.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.1%20DT.jpg
 [D4.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.2%20DT.jpg
+[D4.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/CatNerd.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -48,4 +49,5 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
 ### My progress Day 4
 ![Advance Day 4][D4.1]
 ![Advance Day 4][D4.2]
-
+### I happy to finish the first lesson ♡
+![nerd cat ][D4.3]
