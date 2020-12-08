@@ -8,6 +8,13 @@
 [D4.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.1%20DT.jpg
 [D4.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D4.2%20DT.jpg
 [D4.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/CatNerd.jpg
+[D5.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D5.1%20DT.jpg
+[D5.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D5.2%20DT%20.png
+[D5.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D5.3%20DT.png
+[D5.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D5.4%20DT.jpg
+[D5.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D5.5%20DT.jpg
+[D6.1]:
+[D6.2]:
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -51,3 +58,15 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
 ![Advance Day 4][D4.2]
 ### I happy to finish the first lesson ♡
 ![nerd cat ][D4.3]
+
+## Day 5: Monday, December 7, 2020
+ 1. I started with lesson 2 Selecting and analytical framework (2.1-2.2)
+ 2. I attended the informational session, it was very interesting, informative and fun. I will share some photos about it
+ 
+### My progress Day 5
+![Advance Day 5][D5.2]
+![Advance Day 5][D5.3]
+### The informational session
+![the informational session ][D5.1]
+![the informational session ][D5.4]
+![the informational session ][D5.5]
