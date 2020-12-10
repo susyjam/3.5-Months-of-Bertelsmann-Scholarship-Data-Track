@@ -21,7 +21,9 @@
 [D7.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.3%20DT.jpg
 [D7.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Grace%20H.jpg
 [D7.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.5%20quotes%20.jpg
-
+[D8.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8%20-%20D1%20DT.png
+[D8.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8%20-%20D1.1%20DT.png
+[D8.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8-D1.2%20quotes.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -105,3 +107,19 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
 ![ My quote of the day ][D7.5] 
 #### Today December 9 international day of computing.  congratulations to all computer scientists♡
 ![ International day of computing ][D7.4] 
+
+# TODAY OFFICIALLY START #60DAYSOFUDACITY
+
+## Day 8 - D1 #60daysofudacity : Thursday, December 10, 2020 
+
+Tell you that from day 1 I beginsed to do a personal challenge of 30 min with this challenge, I share with you the link where I am updating it. Note: It is not necessary to do this, but I like to do it to have a personal commitment to myself.
+ 1. Today I made my 60 day promise with udacity.
+ 2. I continued with lesson 2 electing and analytical framework (2.7-2.8)
+ 3. My quote of the day:  Good things take time ♡
+
+#### My progress Day 8 - D1
+![Advance Day 8][D8.1]
+![Advance Day 8][D8.2]
+#### My quote of the day: Step by Step
+![ My quote of the day ][D8.3] 
+
