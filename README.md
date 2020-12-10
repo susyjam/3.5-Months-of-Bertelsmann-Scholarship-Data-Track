@@ -16,6 +16,12 @@
 [D6.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D6.1%20DT.jpg
 [D6.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D6.2%20DT.jpg
 [D6.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Study%20hard.jpeg
+[D7.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.1%20DT.jpg
+[D7.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.2%20DT.jpg
+[D7.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.3%20DT.jpg
+[D7.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Grace%20H.jpg
+[D7.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D7.5%20quotes%20.jpg
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -83,3 +89,19 @@ My advance in the Technology Scholarships Introduction to Problem Solving with A
 ![Advance Day 6][D6.2]
 #### My quote of the day 
 ![ My quote of the day ][D6.3] 
+
+## Day 7: Wednesday, December 9, 2020
+ 1. I continued with lesson 2 electing and analytical framework (2.5-2.6)
+ 2. I participated the live slack orientation 
+ 3. I filled out the channel request form and community idea proposal
+ 4. My quote of the day:  Life is like a cup of coffee, it's all about how you make it ♡
+
+#### My progress Day 7
+![Advance Day 7][D7.1]
+![Advance Day 7][D7.2]
+#### Live slack orientation Day 7
+![live slack orientation ][D7.3] 
+#### My quote of the day 
+![ My quote of the day ][D7.5] 
+#### Today December 9 international day of computing.  congratulations to all computer scientists♡
+![ International day of computing ][D7.4] 
