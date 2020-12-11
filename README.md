@@ -116,6 +116,8 @@ Tell you that from day 1 I beginsed to do a personal challenge of 30 min with th
  1. Today I made my 60 day promise with udacity.
  2. I continued with lesson 2 electing and analytical framework (2.7-2.8)
  3. My quote of the day:  Good things take time ♡
+ 
+Today I want to motivate @Frida @PuzzleDots @LauraT  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
 
 #### My progress Day 8 - D1
 ![Advance Day 8][D8.1]
