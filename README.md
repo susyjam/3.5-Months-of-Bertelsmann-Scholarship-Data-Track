@@ -24,6 +24,9 @@
 [D8.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8%20-%20D1%20DT.png
 [D8.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8%20-%20D1.1%20DT.png
 [D8.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D8-D1.2%20quotes.jpg
+[D9.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D9-D2.1%20DT.png
+[D9.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D9-D2.2%20DT.png
+[D9.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/LeaveYourComfortZone.png
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -119,9 +122,26 @@ Tell you that from day 1 I beginsed to do a personal challenge of 30 min with th
  
 Today I want to motivate @Frida @PuzzleDots @LauraT  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
 
-#### My progress Day 8 - D1
+#### My progress Day 8 - D1 #60daysofudacity
 ![Advance Day 8][D8.1]
 ![Advance Day 8][D8.2]
 #### My quote of the day: Step by Step
 ![ My quote of the day ][D8.3] 
+
+
+## Day 9 - D2 #60daysofudacity : Friday, December 11, 2020 
+ 
+ 1. I continued with lesson 2 electing and analytical framework (2.9-2.10)
+ 2. My quote of the day:  Leave Your Comfort Zone, always learn ♡
+ 3. Today I would like to share with you one of my favorite songs so you can relax with some music. https://youtu.be/k4V3Mo61fJM
+ 
+Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udacity to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 9 - D2 #60daysofudacity
+![Advance Day 9][D9.1]
+![Advance Day 9][D9.2]
+#### My quote of the day: Leave Your Comfort Zone, always learn ♡
+![ LeaveYourComfortZone ][D9.3] 
+
+
 
