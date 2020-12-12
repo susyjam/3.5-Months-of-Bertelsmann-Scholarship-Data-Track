@@ -27,6 +27,12 @@
 [D9.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D9-D2.1%20DT.png
 [D9.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D9-D2.2%20DT.png
 [D9.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/LeaveYourComfortZone.png
+[D10.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.1%20DT.jpg
+[D10.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.2%20DT.jpg
+[D10.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.3%20DT.jpg
+[D10.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.4%20DT.jpg
+[D10.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Yeii.jpg
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -144,4 +150,19 @@ Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udaci
 ![ LeaveYourComfortZone ][D9.3] 
 
 
+## Day 10 - D3 #60daysofudacity : Saturday, December 12, 2020 
+ 
+ 1. I finished with lesson 2 electing and analytical framework (2.11-2.13)
+ 2. My quote of the day:  Focus on being productive instead on being busy
+
+Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 10 - D3 #60daysofudacity
+![Advance Day 10][D10.1]
+![Advance Day 10][D10.2]
+![Advance Day 10][D10.3]
+#### My quote of the day: Focus on being productive instead on being busy ♡
+![ focus ][D10.4] 
+#### I happy to finish the second lesson ♡
+![yeii ][D10.5]
 
