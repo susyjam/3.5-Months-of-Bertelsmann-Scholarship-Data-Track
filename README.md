@@ -32,6 +32,10 @@
 [D10.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.3%20DT.jpg
 [D10.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D10-D3.4%20DT.jpg
 [D10.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Yeii.jpg
+[D11]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4%20DT.jpg
+[D11.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.1%20DT.jpg
+[D11.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.2%20DT.jpg
+[D11.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.3.jpg
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -166,3 +170,17 @@ Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udaci
 #### I happy to finish the second lesson ♡
 ![yeii ][D10.5]
 
+## Day 11 - D4 #60daysofudacity : Sunday, December 13, 2020 
+ 
+ 1. I started with lesson 3 Linear Regression(3.1-3.2)
+ 2. My quote of the day: Stop waiting for tomorrow, start now ♡
+
+Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 11 - D4 #60daysofudacity
+![Advance Day 11][D11]
+![Advance Day 11][D11.1]
+#### My quote of the day: Stop waiting for tomorrow, start now ♡
+![ start now][D11.2] 
+#### Today I had a meeting with my colleagues from the Microsoft Azure scholarship, I love meetings like this because we talked about our advances in the scholarship and technological curiosities 😊
+![meeting sg Spanish ML][D11.3]
