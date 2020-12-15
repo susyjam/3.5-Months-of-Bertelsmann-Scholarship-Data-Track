@@ -36,6 +36,10 @@
 [D11.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.1%20DT.jpg
 [D11.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.2%20DT.jpg
 [D11.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D11-D4.3.jpg
+[D12.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.1%20DT.jpg
+[D12.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.2%20DT.jpg
+[D12.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.3%20DT.jpeg
+[D12.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.4%20DT.jpg
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -184,3 +188,20 @@ Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udaci
 ![ start now][D11.2] 
 #### Today I had a meeting with my colleagues from the Microsoft Azure scholarship, I love meetings like this because we talked about our advances in the scholarship and technological curiosities 😊
 ![meeting sg Spanish ML][D11.3]
+
+
+## Day 12 - D5 #60daysofudacity : Momday, December 14, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.3-3.4)
+ 2. My quote of the day: If you torture data long enough, it will tell you whatever you want to hear
+ 3. Today I decided to create a study group in Spanish, I hope the channel will open and that many are interested in the group and can join
+
+Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 12 - D5 #60daysofudacity
+![Advance Day 12][D12.1]
+![Advance Day 12][D12.2]
+#### My quote of the day: If you torture data long enough, it will tell you whatever you want to hear
+![ data][D12.3] 
+#### Today I decided to create a study group in Spanish, I hope the channel will open and that many are interested in the group and can join
+![study group sg Spanish ][D12.4]
