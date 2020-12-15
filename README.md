@@ -190,13 +190,13 @@ Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udaci
 ![meeting sg Spanish ML][D11.3]
 
 
-## Day 12 - D5 #60daysofudacity : Momday, December 14, 2020 
+## Day 12 - D5 #60daysofudacity : Monday, December 14, 2020 
  
  1. I continued with lesson 3 Linear Regression(3.3-3.4)
  2. My quote of the day: If you torture data long enough, it will tell you whatever you want to hear
  3. Today I decided to create a study group in Spanish, I hope the channel will open and that many are interested in the group and can join
 
-Today I want to motivate @Frida @PuzzleDots @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca  to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
 
 #### My progress Day 12 - D5 #60daysofudacity
 ![Advance Day 12][D12.1]
