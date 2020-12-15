@@ -40,6 +40,9 @@
 [D12.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.2%20DT.jpg
 [D12.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.3%20DT.jpeg
 [D12.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D12-D5.4%20DT.jpg
+[D13.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.1%20DT%20.png
+[D13.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.2%20DT.png
+[D13.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.3%20DT.jpg
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -205,3 +208,18 @@ Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina
 ![ data][D12.3] 
 #### Today I decided to create a study group in Spanish, I hope the channel will open and that many are interested in the group and can join
 ![study group sg Spanish ][D12.4]
+
+
+## Day 13 - D6 #60daysofudacity : Tuesday, December 15, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.5-3.6)
+ 2. My quote of the day: If we knew what is already there, there will be no need for research.
+
+Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 13 - D6 #60daysofudacity
+![Advance Day 13][D13.1]
+![Advance Day 13][D13.2]
+#### My quote of the day: If we knew what is3 already there, there will be no need for research.
+![research][D13.3] 
+
