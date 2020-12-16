@@ -43,7 +43,9 @@
 [D13.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.1%20DT%20.png
 [D13.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.2%20DT.png
 [D13.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D13-D6.3%20DT.jpg
-
+[D14.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.1%20DT.png
+[D14.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.2%20DT.png
+[D14.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.3%20DT.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -222,4 +224,18 @@ Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina
 ![Advance Day 13][D13.2]
 #### My quote of the day: If we knew what is3 already there, there will be no need for research.
 ![research][D13.3] 
+
+
+## Day 14 - D7 #60daysofudacity : Wednesday, December 16, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.7-3.8)
+ 2. My quote of the day: “Life shrinks or expands in proportion with one’s courage.” — Anaïs Nin (It is a phrase that I really liked)
+
+Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 14 - D7 #60daysofudacity
+![Advance Day 13][D14.1]
+![Advance Day 13][D14.2]
+#### My quote of the day:  “Life shrinks or expands in proportion with one’s courage.” — Anaïs Nin
+![research][D14.3] 
 
