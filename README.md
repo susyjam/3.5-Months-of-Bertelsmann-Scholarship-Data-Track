@@ -252,7 +252,7 @@ Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina
  3. My quote of the day: Never give up there is no such thing as an ending just a new beginning 
  4. Yesterday the #sg_spanish channel was opened, it is a study group of people who feel comfortable speaking Spanish, we will hold weekly meetings to review our progress and talk about related topics. You are invited to join this beautiful study group.
 
-Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
 
 #### My progress Day 15 - D8 #60daysofudacity
 ![Advance Day 15][D15.1]
