@@ -46,6 +46,10 @@
 [D14.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.1%20DT.png
 [D14.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.2%20DT.png
 [D14.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D14-D7.3%20DT.jpg
+[D15.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D15-D8.1%20DT.png
+[D15.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D15-D8.2%20DT.png
+[D15.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D15-D8.3.jpg
+[D15.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/never-give-up.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -234,8 +238,27 @@ Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina
 Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
 
 #### My progress Day 14 - D7 #60daysofudacity
-![Advance Day 13][D14.1]
-![Advance Day 13][D14.2]
+![Advance Day 14][D14.1]
+![Advance Day 14][D14.2]
 #### My quote of the day:  “Life shrinks or expands in proportion with one’s courage.” — Anaïs Nin
 ![research][D14.3] 
+
+
+## Day 15 - D8 #60daysofudacity : Thursday, December 17, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.9-3.10)
+ 2. Today I read an article called A Beginner’s Guide to Industry Standard Process of Data Mining: CRISP-DM
+    Link: https://medium.com/analytics-vidhya/a-beginners-guide-to-industry-standard-process-of-data-mining-crisp-dm-c1d7d50e57c3
+ 3. My quote of the day: Never give up there is no such thing as an ending just a new beginning 
+ 4. Yesterday the #sg_spanish channel was opened, it is a study group of people who feel comfortable speaking Spanish, we will hold weekly meetings to review our progress and talk about related topics. You are invited to join this beautiful study group.
+
+Today I want to motivate @Frida @Avinash Kumar @Gabriela Urquieta  @LauraT @Mina Terlecka @hilsia.udacity @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :corazón_púrpura:
+
+#### My progress Day 15 - D8 #60daysofudacity
+![Advance Day 15][D15.1]
+![Advance Day 15][D15.2]
+#### My quote of the day:  Never give up there is no such thing as an ending just a new beginning 
+![research][D15.3] 
+#### Sg_Spanish
+![research][D15.4] 
 
