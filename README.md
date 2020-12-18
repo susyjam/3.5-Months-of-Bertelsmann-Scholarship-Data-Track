@@ -50,6 +50,22 @@
 [D15.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D15-D8.2%20DT.png
 [D15.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D15-D8.3.jpg
 [D15.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/never-give-up.jpg
+[D16.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.1%20DT.png
+[D16.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.2%20DT.png
+[D16.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.3%20DT.png
+[D17.1]: 
+[D17.2]: 
+[D17.3]: 
+[D18.1]: 
+[D18.2]: 
+[D18.3]:
+[D19.1]: 
+[D19.2]: 
+[D19.3]:
+[D20.1]: 
+[D20.2]: 
+[D20.3]:
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -264,3 +280,19 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 #### Sg_Spanish
 ![research][D15.4] 
 
+
+## Day 16 - D9 #60daysofudacity : Friday, December 18, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.11-3.12)
+ 2. My quote of the day: “Believe you can and you’re halfway there.” –Theodore Roosevelt
+ 3. Today I tried to organize and plan the activities with the group #sg_spanish, I hope that these days we will have a meeting
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 16 - D9 #60daysofudacity
+![Advance Day 16][D16.1]
+![Advance Day 16][D16.2]
+#### My quote of the day:  “Believe you can and you’re halfway there.” –Theodore Roosevelt
+![Believe you can and you’re halfway there][D16.3] 
