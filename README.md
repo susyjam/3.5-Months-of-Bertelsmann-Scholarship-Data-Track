@@ -53,9 +53,10 @@
 [D16.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.1%20DT.png
 [D16.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.2%20DT.png
 [D16.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D16-D9.3%20DT.png
-[D17.1]: 
-[D17.2]: 
-[D17.3]: 
+[D17.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10..1%20DT.png
+[D17.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10..2%20DT..png
+[D17.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10.3%20DT.png
+[D17.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10.4%20DT1er%20meeting%20%23sg_spanish.png
 [D18.1]: 
 [D18.2]: 
 [D18.3]:
@@ -64,7 +65,6 @@
 [D19.3]:
 [D20.1]: 
 [D20.2]: 
-[D20.3]:
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -287,6 +287,7 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
  2. My quote of the day: “Believe you can and you’re halfway there.” –Theodore Roosevelt
  3. Today I tried to organize and plan the activities with the group #sg_spanish, I hope that these days we will have a meeting
 
+
 My progress log link on github
 
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
@@ -296,3 +297,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![Advance Day 16][D16.2]
 #### My quote of the day:  “Believe you can and you’re halfway there.” –Theodore Roosevelt
 ![Believe you can and you’re halfway there][D16.3] 
+
+
+## Day 17 - D10 #60daysofudacity : Saturday, December 19, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.13-3.14)
+ 2. My quote of the day: “It doesn’t matter how slow you go as long as you don’t stop.” –Confucius
+ 3. Today we had our first meeting with the study group #sg_spanish yeii! Thanks for participating in the meeting guys! @Priscila Espinoza @Joaquin I loved meeting you. 
+ 4. Last night I found out that I was elected as a student leader along with @LauraT and @Sumnima Thapa from the #celebrate  channel, I hope that many here celebrate each of their achievements and share it, it would be great to hear from you. :purple_heart:
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 17 - D10 #60daysofudacity
+![Advance Day 17][D17.1]
+![Advance Day 17][D17.2]
+#### My quote of the day:  “It doesn’t matter how slow you go as long as you don’t stop.” –Confucius
+![Confucius][D17.3] 
+#### Sg_Spanish first meeting
+![Sg_Spanish first meeting][D17.4] 
