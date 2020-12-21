@@ -57,14 +57,16 @@
 [D17.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10..2%20DT..png
 [D17.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10.3%20DT.png
 [D17.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D17-D10.4%20DT1er%20meeting%20%23sg_spanish.png
-[D18.1]: 
-[D18.2]: 
-[D18.3]:
+[D18.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.1%20DT.png
+[D18.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.2%20DT.png
+[D18.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.3%20DT.png
 [D19.1]: 
 [D19.2]: 
 [D19.3]:
 [D20.1]: 
-[D20.2]: 
+[D20.2]: jj
+
+
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -317,3 +319,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![Confucius][D17.3] 
 #### Sg_Spanish first meeting
 ![Sg_Spanish first meeting][D17.4] 
+
+
+## Day 18 - D11 #60daysofudacity : Sunday, December 20, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.15-3.16)
+ 2. My quote of the day: “Anything’s possible if you’ve got enough nerve.” –J.K. Rowling... Always believe in you
+ 3. I would like to share with you a cheesy song that has been in my mind all day (it is a song is Spanish) "Aunque no te pueda ver" (Although I cannot see) by Alex Ubago https://youtu.be/L_xc4YBmtOQ
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 18 - D11 #60daysofudacity
+![Advance Day 17][D18.1]
+![Advance Day 17][D18.2]
+#### My quote of the day:  “Anything’s possible if you’ve got enough nerve.” –J.K. Rowling... Always believe in you
+![Confucius][D18.3] 
+
+
+
