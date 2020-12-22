@@ -60,10 +60,10 @@
 [D18.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.1%20DT.png
 [D18.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.2%20DT.png
 [D18.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D18-D11.3%20DT.png
-[D19.1]: 
-[D19.2]: 
-[D19.3]:
-[D20.1]: 
+[D19.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.1.png
+[D19.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.2%20DT.png
+[D19.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.3%20DT.jpg
+[D20.1]:  j
 [D20.2]: jj
 
 
@@ -338,4 +338,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![Confucius][D18.3] 
 
 
+## Day 19 - D12 #60daysofudacity : Monday, December 21, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.17-3.18)
+ 2. My quote of the day:  “It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.” –Oprah Winfrey
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 18 - D11 #60daysofudacity
+![Advance Day 19][D19.1]
+![Advance Day 19][D19.2]
+#### My quote of the day:   “It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.” –Oprah Winfrey
+![Oprah Winfrey][D19.3] 
 
