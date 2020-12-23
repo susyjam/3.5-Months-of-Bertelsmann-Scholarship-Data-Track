@@ -63,9 +63,9 @@
 [D19.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.1.png
 [D19.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.2%20DT.png
 [D19.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D19-D12.3%20DT.jpg
-[D20.1]:  j
-[D20.2]: jj
-
+[D20.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D20-D13.1.jpg
+[D20.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D20-D13.2%20DT.jpg
+[D20.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Mygdg.jpg
 
 
 
@@ -347,9 +347,26 @@ My progress log link on github
 
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
 
-#### My progress Day 18 - D11 #60daysofudacity
+#### My progress Day 19 - D12 #60daysofudacity
 ![Advance Day 19][D19.1]
 ![Advance Day 19][D19.2]
 #### My quote of the day:   “It doesn’t matter who you are, where you come from. The ability to triumph begins with you. Always.” –Oprah Winfrey
 ![Oprah Winfrey][D19.3] 
 
+
+## Day 20 - D13 #60daysofudacity : Tuesday, December 22, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.19)
+ 2. My quote of the day: Positive mind, positive vibes, positive life... always
+ 3. Today I want to share a gift that I got from the gdg Cochabamba community to which I belong, they are great friends who always support my crazy things, I love them very much.  I'm very happy:ojos_estrella::sonrojo::corazón_púrpura:
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 20 - D13 #60daysofudacity
+![Advance Day 20][D20.1]
+#### My quote of the day: Positive mind, positive vibes, positive life... always
+![positive][D20.2] 
+#### My gift of GDG Cochabamba ♡
+![GDG Cochabamba][D20.3]
