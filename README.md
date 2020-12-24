@@ -66,6 +66,8 @@
 [D20.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D20-D13.1.jpg
 [D20.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D20-D13.2%20DT.jpg
 [D20.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Mygdg.jpg
+[D21.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.1%20DT.png
+[D21.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.2%20DT.png
 
 
 
@@ -370,3 +372,21 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![positive][D20.2] 
 #### My gift of GDG Cochabamba ♡
 ![GDG Cochabamba][D20.3]
+
+
+## Day 21 - D14 #60daysofudacity : Wednesday, December 23, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.20)
+ 2. My quote of the day: “The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
+ 3. #wellnesswednesday : Nothing is more relaxing than singing your favorite song and having the feeling that you did it perfect because you sang with your heart. :corazón_púrpura: #relax
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 20 - D13 #60daysofudacity
+![Advance Day 21][D21.1]
+#### My quote of the day: “The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
+![Walt Disney][D21.2] 
+
+
