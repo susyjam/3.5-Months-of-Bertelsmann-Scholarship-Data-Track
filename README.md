@@ -68,7 +68,8 @@
 [D20.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Mygdg.jpg
 [D21.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.1%20DT.png
 [D21.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.2%20DT.png
-
+[D22.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D22-D15.1%20DT.jpg
+[D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20Mej%C3%ADa.mp4
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -389,4 +390,24 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 #### My quote of the day: “The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
 ![Walt Disney][D21.2] 
 
+
+## Day 22 - D15 #60daysofudacity : Thursday, December 24, 2020 
+ 
+ 1. today I dedicated myself to preparing the family Christmas dinner and spending moments with my family ♡
+ 2. My quote of the day: Love and enjoy every moment of your life and every person that you have with you
+ 3. #ThankfulThursday :corazón_púrpura::relajado::sonrojo:
+    Thankful for having my whole family healthy and with me.  :corazón: 
+    grateful for developing professionally and learning something that I am passionate about.  :cara_de_nerd:
+    Thankful for I Be alive and enjoy life.  :ojos_estrella:
+    Thankful for I Enjoy great learning with udacity and Bertelsmann as it allows me to meet great people♡:corazón_púrpura: 
+ 4. Merry Christmas to all.
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### Merry Christmas ♡
+![Merry Christmas][D22.1]
+#### My quote of the day: Love and enjoy every moment of your life and every person that you have with you
+![Walt Disney][D22.2] 
 
