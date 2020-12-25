@@ -69,7 +69,7 @@
 [D21.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.1%20DT.png
 [D21.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.2%20DT.png
 [D22.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D22-D15.1%20DT.jpg
-[D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20Mej%C3%ADa.mp4
+[D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20.jpg
 
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
@@ -407,7 +407,7 @@ My progress log link on github
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
 
 #### Merry Christmas ♡
-![Merry Christmas][D22.1]
+![Merry Christmas][D22.2]
 #### My quote of the day: Love and enjoy every moment of your life and every person that you have with you
-![Walt Disney][D22.2] 
+![Walt Disney][D22.1] 
 
