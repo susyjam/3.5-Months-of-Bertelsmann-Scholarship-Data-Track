@@ -70,7 +70,10 @@
 [D21.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.2%20DT.png
 [D22.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D22-D15.1%20DT.jpg
 [D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20.jpg
-
+[D23.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20D16.1%20DT.png
+[D23.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20d16%20DT.jpg
+[D24.1]:j
+[D24.2]: h
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -410,4 +413,19 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![Merry Christmas][D22.2]
 #### My quote of the day: Love and enjoy every moment of your life and every person that you have with you
 ![Walt Disney][D22.1] 
+
+
+## Day 23 - D16 #60daysofudacity : Friday, December 25, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.20) I'm still exploring alteryx
+ 2. My quote of the day: "Santa Claus is anyone who loves another and seeks to make them happy; who gives himself by thought or word or deed in every gift that he bestows."
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 23 - D16 #60daysofudacity
+![Advance Day 23][D23.1]
+#### My quote of the day: "Santa Claus is anyone who loves another and seeks to make them happy; who gives himself by thought or word or deed in every gift that he bestows."
+![Santa Claus][D23.2] 
 
