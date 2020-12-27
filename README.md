@@ -72,8 +72,9 @@
 [D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20.jpg
 [D23.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20D16.1%20DT.png
 [D23.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20d16%20DT.jpg
-[D24.1]:j
-[D24.2]: h
+[D24.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D24-D17.1%20DT.jpg
+[D24.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4%20navidad%20Mejia.jpg
+[D24.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting_.png
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -429,3 +430,20 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 #### My quote of the day: "Santa Claus is anyone who loves another and seeks to make them happy; who gives himself by thought or word or deed in every gift that he bestows."
 ![Santa Claus][D23.2] 
 
+
+## Day 24 - D17 #60daysofudacity : Saturday, December 26, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.21)
+ 2. My quote of the day: Mankind is a great, an immense family. This is proved by what we feel in our hearts at Christmas:sonrojo::corazón_púrpura:
+ 3. Today we had our second meeting with the study group #sg_spanish yeii! Thanks for participating in the meeting guys! @Gustavo @Sandra @Nicolás Campos @Guillermo Fontánez @Joaquin @Priscila Espinoza  I loved meeting you. 
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca to continue with great enthusiasm in this learning challenge :purple_heart:
+
+#### My progress Day 24 - D17 #60daysofudacity
+![Advance Day 24][D24.1]
+#### My quote of the day: Mankind is a great, an immense family. This is proved by what we feel in our hearts at Christmas:sonrojo::corazón_púrpura:
+![Christmas][D24.2] 
+#### Sg_Spanish second meeting
+![Sg_Spanish second meeting][D24.3] 
