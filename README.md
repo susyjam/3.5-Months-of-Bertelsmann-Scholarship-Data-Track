@@ -69,12 +69,14 @@
 [D21.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.1%20DT.png
 [D21.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D21-D14.2%20DT.png
 [D22.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D22-D15.1%20DT.jpg
-[D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20.jpg
+[D22.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Merry%20Christmas%20.jp 
 [D23.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20D16.1%20DT.png
 [D23.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D23%20d16%20DT.jpg
 [D24.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D24-D17.1%20DT.jpg
 [D24.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4%20navidad%20Mejia.jpg
 [D24.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting_.png
+[D25.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D25%20D181%20DT.png
+[D25.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/we%20can%20do%20it.gif
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -447,3 +449,20 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Sampson 
 ![Christmas][D24.2] 
 #### Sg_Spanish second meeting
 ![Sg_Spanish second meeting][D24.3] 
+
+
+## Day 25 - D18 #60daysofudacity : Sunday, December 27, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.22) I'm still exploring alteryx
+ 2. I found something very useful about alteryx in this link https://towardsdatascience.com/why-you-should-learn-alteryx-5e5fcbc557ae
+ 3. My quote of the day: we can do it!
+ 4. we started with a dynamic #this2020 in #celebrate we invite you to participate, I leave you the link where you can find this dynamic https://bertelsmann-datatrack.slack.com/archives/C01EFB53YGK/p1609039402446800
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 25 - D18 #60daysofudacity
+![Advance Day 25][D25.1]
+#### My quote of the day: we can do it!
+![We can do it][D25.2] 
