@@ -77,6 +77,11 @@
 [D24.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting_.png
 [D25.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D25%20D181%20DT.png
 [D25.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/we%20can%20do%20it.gif
+[D26.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D26%20D19.1%20DT.jpg
+[D26.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Stars.jpg
+[D26.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Data%20science%20.jpg
+
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -466,3 +471,21 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Advance Day 25][D25.1]
 #### My quote of the day: we can do it!
 ![We can do it][D25.2] 
+
+
+## Day 26 - D19 #60daysofudacity : Monday, December 28, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.23)  
+ 2. My quote of the day: Look up at the stars and not down at your feet.
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 26 - D19 #60daysofudacity
+![Advance Day 26][D26.1]
+#### My quote of the day: Look up at the stars and not down at your feet.
+![ stars][D26.2] 
+#### What do you think?
+![ DT][D26.3] 
+
