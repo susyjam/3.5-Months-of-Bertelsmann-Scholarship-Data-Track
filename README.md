@@ -80,8 +80,8 @@
 [D26.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D26%20D19.1%20DT.jpg
 [D26.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Stars.jpg
 [D26.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Data%20science%20.jpg
-
-
+[D27.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D27%20D20.1%20DT.jpg
+[D27.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D27%20D20.2%20DT.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -489,3 +489,16 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### What do you think?
 ![ DT][D26.3] 
 
+## Day 27 - D20 #60daysofudacity : Tuesday, December 29, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.24)  
+ 2. My quote of the day: “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.” – J.K. Rowling
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 27 - D20 #60daysofudacity
+![Advance Day 27][D27.1]
+#### My quote of the day: “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.” – J.K. Rowling
+![ stars][D27.2] 
