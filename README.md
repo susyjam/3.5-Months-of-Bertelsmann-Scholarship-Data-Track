@@ -85,9 +85,9 @@
 [D28.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D28%20D21.1.png
 [D28.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D28%20D21.2.png
 [D28.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Cientificas%20de%20Datos%20Bolivia%20The%20last%20Meeting%20.png
-[D29.1]: s
-[D29.2]: d
-[D29.3]: d
+[D29.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.1%20DT.png
+[D29.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.2%20DT.jpg
+[D29.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.3%20DT.jpg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -520,11 +520,29 @@ My progress log link on github
 
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
 
-#### My progress Day 26 - D19 #60daysofudacity
+#### My progress Day 28 - D21 #60daysofudacity
 ![Advance Day 28][D28.1]
 #### My quote of the day: Don't ever let someone tell you that you can't do something. You got a dream, you gotta protect it. When people can't do something themselves, they are going to tell you that you can't do it. You want something, go get it. Period. - Will Smith
 ![Will Smith][D28.2] 
 #### Cientificas de Datos Bolivia, the last meeting
 ![ Cientificas de Datos Bolivia][D28.3] 
 
+
+## Day 29 - D22 #60daysofudacity : Thursday, December 31, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.27)  
+ 2. My quote of the day: "You’ll never get bored when you try something new. There’s really no limit to what you can do." - Dr Seuss
+ 3. Today I had a call with a friend who had not seen or spoken for a long time, in 2020 we distanced ourselves and I think that today on the call we meet again and I am very happy.
+ 4. I wanted to wish you a great end of the year and a fabulous 2021, where you allow yourself to grow and learn, enjoy every moment either alone or with the people who are part of your life.
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 29 - D22 #60daysofudacity
+![Advance Day 29][D29.1]
+#### My quote of the day: "You’ll never get bored when you try something new. There’s really no limit to what you can do." - Dr Seuss
+![][D29.2] 
+#### Happy New Year 2021
+![Happy New Year 2021][D29.3] 
 
