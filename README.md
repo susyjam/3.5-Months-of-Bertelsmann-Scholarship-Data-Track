@@ -82,6 +82,12 @@
 [D26.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Data%20science%20.jpg
 [D27.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D27%20D20.1%20DT.jpg
 [D27.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D27%20D20.2%20DT.jpg
+[D28.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D28%20D21.1.png
+[D28.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D28%20D21.2.png
+[D28.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Cientificas%20de%20Datos%20Bolivia%20The%20last%20Meeting%20.png
+[D29.1]: s
+[D29.2]: d
+[D29.3]: d
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -502,3 +508,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Advance Day 27][D27.1]
 #### My quote of the day: “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.” – J.K. Rowling
 ![ stars][D27.2] 
+
+
+## Day 28 - D21 #60daysofudacity : Wednesday, December 30, 2020 
+ 
+ 1. I continued with lesson 3 Linear Regression(3.25 - 3.26)  
+ 2. My quote of the day: Don't ever let someone tell you that you can't do something. You got a dream, you gotta protect it. When people can't do something themselves, they are going to tell you that you can't do it. You want something, go get it. Period. - Will Smith
+ 3. This year I was part of a very nice group such as the data scientist girls Bolivia, it is a beautiful community that was born this pandemic, we did some virtual meetups where we shared knowledge about data science, Today we had our last meeting of the year, I am very happy for the energy of the team, they want to do many things in 2021, that excites me and motivates me a lot.
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 26 - D19 #60daysofudacity
+![Advance Day 28][D28.1]
+#### My quote of the day: Don't ever let someone tell you that you can't do something. You got a dream, you gotta protect it. When people can't do something themselves, they are going to tell you that you can't do it. You want something, go get it. Period. - Will Smith
+![Will Smith][D28.2] 
+#### Cientificas de Datos Bolivia, the last meeting
+![ Cientificas de Datos Bolivia][D28.3] 
+
+
