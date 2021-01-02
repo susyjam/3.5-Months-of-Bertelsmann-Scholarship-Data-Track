@@ -88,6 +88,10 @@
 [D29.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.1%20DT.png
 [D29.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.2%20DT.jpg
 [D29.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D29%20D22.3%20DT.jpg
+[D30.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.1%20DT.jpg
+[D30.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.2%20DT.jpg
+[D30.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.3%20DT.jpeg
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -545,4 +549,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![][D29.2] 
 #### Happy New Year 2021
 ![Happy New Year 2021][D29.3] 
+
+
+## Day 30 - D23 #60daysofudacity : Friday, January 01, 2021
+ 
+ 1. I finished with lesson 3 Linear Regression(3.28)  yeiii🤓💜
+ 2. My quote of the day: “Hope smiles from the threshold of the year to come, whispering ‘It will be happier." – Alfred, Lord Tennyson 
+ 3. Today I organized a little, the agenda helped me a lot.  I have many things that I want to do in 2021 ... let's go with everything 🤓💜
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 30 - D23 #60daysofudacity
+![Advance Day 30][D30.1]
+#### My quote of the day: “Hope smiles from the threshold of the year to come, whispering ‘It will be happier.’”– Alfred, Lord Tennyson ...all up to you
+![][D30.3] 
+#### Today I finished lesson 3 yeiii
+![finished lesson3][D30.2] 
+
 
