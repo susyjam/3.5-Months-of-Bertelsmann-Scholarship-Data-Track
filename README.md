@@ -91,7 +91,10 @@
 [D30.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.1%20DT.jpg
 [D30.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.2%20DT.jpg
 [D30.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D30%20D23.3%20DT.jpeg
-
+[D31.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.1%20DT.png
+[D31.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.2%203er%20meeting%20sg_spanish.png
+[D31.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.3%203er%20meeting%20sg_spanish.png
+[D31.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.4%20DT.jpeg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -568,4 +571,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### Today I finished lesson 3 yeiii
 ![finished lesson3][D30.2] 
 
+
+## Day 31 - D24 #60daysofudacity : Saturday, January 02, 2021
+ 
+ 1. Today started with Lesson 4: Practice Project (4.1 - 4.2)🤓💜
+ 2. My quote of the day: Dream Big, Set Goals, Take Actions. =)
+ 3. Today we had our third meeting as a study group #sg_spanish and our first meeting of the year! yeii:blob_cheer::gorro_de_fiesta: Gustavo presented us with a summary of the first Analytical Problem lesson, thanks for your presentation @Gustavo and for sharing your work experience.
+Thanks for all @Gustavo @Sandra @Nicolás Campos @Guillermo Fontánez @Joaquin @Ysabel Nava 
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 31 - D24 #60daysofudacity
+![Advance Day 31][D31.1]
+#### My quote of the day: Dream Big, Set Goals, Take Actions. =)
+![][D31.4] 
+#### Third meeting as a study group #sg_spanish 
+![third meeting as a study group #sg_spanish ][D31.2] 
+![third meeting as a study group #sg_spanish ][D31.3] 
 
