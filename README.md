@@ -95,6 +95,12 @@
 [D31.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.2%203er%20meeting%20sg_spanish.png
 [D31.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.3%203er%20meeting%20sg_spanish.png
 [D31.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.4%20DT.jpeg
+[D32.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D32%20D25.1%20DT.jpg
+[D32.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D32%20D25.2%20DT.png
+[D33.1]: .
+[D33.2]: .
+
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -590,4 +596,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### Third meeting as a study group #sg_spanish 
 ![third meeting as a study group #sg_spanish ][D31.2] 
 ![third meeting as a study group #sg_spanish ][D31.3] 
+
+
+## Day 32 - D25 #60daysofudacity : Sunday, January 03, 2021
+ 
+ 1. Today started with Lesson 4: Practice Project (4.3)🤓💜
+ 2. My quote of the day:  “If it doesn’t scare you, you’re probably not dreaming big enough.”
+ 3. Today I came across this interesting article https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4 Thanks for sharing @Ysabel Nava 
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Avinash Kumar @Oluwatosin @Olga Gnatenko @hilsia @Vipul Aggarwal @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge:corazón_púrpura:
+
+#### My progress Day 32 - D25 #60daysofudacity
+![Advance Day 32][D32.2]
+#### My quote of the day:  “If it doesn’t scare you, you’re probably not dreaming big enough.”
+![][D32.1] 
+
+
+
 
