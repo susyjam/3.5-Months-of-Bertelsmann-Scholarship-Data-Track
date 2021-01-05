@@ -97,8 +97,8 @@
 [D31.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D31%20D24.4%20DT.jpeg
 [D32.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D32%20D25.1%20DT.jpg
 [D32.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D32%20D25.2%20DT.png
-[D33.1]: .
-[D33.2]: .
+[D33.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D33%20D26.1%20DT.png
+[D33.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D33%20D26.2%20DT.jpg
 
 
 
@@ -612,6 +612,24 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Advance Day 32][D32.2]
 #### My quote of the day:  “If it doesn’t scare you, you’re probably not dreaming big enough.”
 ![][D32.1] 
+
+
+
+## Day 33 - D26 #60daysofudacity : Monday, January 04, 2021
+ 
+ 1. Today started with Lesson 4: Practice Project (4.4)🤓💜
+ 2. My quote of the day:  Work hard, dream big, never give up
+ 3. Today I started with the Data Analyst in Python in Dataquest course (remembering python)
+ 4. Today the founder of womentech network wrote to me congratulating me for being part of the Global Ambassador at WomenTech Network, it is fabulous to belong to communities where you have support and above all they share knowledge. If you want to join I leave you the link  https://www.womentech.net/women-tech-global-awards?join=NzY4Ng==
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 33 - D26  #60daysofudacity
+![Advance Day 33][D33.1]
+#### My quote of the day:  Work hard, dream big, never give up
+![Work hard, dream big, never give up][D33.2]
 
 
 
