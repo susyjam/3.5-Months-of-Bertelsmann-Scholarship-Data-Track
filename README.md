@@ -99,8 +99,18 @@
 [D32.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D32%20D25.2%20DT.png
 [D33.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D33%20D26.1%20DT.png
 [D33.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D33%20D26.2%20DT.jpg
-
-
+[D34.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D34%20D27.1%20DT.png
+[D34.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D34%20D27.2%20DT.jpg
+[D35.1]: .
+[D35.2]: .
+[D36.1]: .
+[D36.2]: .
+[D37.1]: .
+[D37.2]: .
+[D38.1]: .
+[D38.2]: .
+[D39.1]: . 
+[D39.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -600,7 +610,7 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 ## Day 32 - D25 #60daysofudacity : Sunday, January 03, 2021
  
- 1. Today started with Lesson 4: Practice Project (4.3)🤓💜
+ 1. Today continued with Lesson 4: Practice Project (4.3)🤓💜
  2. My quote of the day:  “If it doesn’t scare you, you’re probably not dreaming big enough.”
  3. Today I came across this interesting article https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4 Thanks for sharing @Ysabel Nava 
 
@@ -617,7 +627,7 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 ## Day 33 - D26 #60daysofudacity : Monday, January 04, 2021
  
- 1. Today started with Lesson 4: Practice Project (4.4)🤓💜
+ 1. Today continued with Lesson 4: Practice Project (4.4)🤓💜
  2. My quote of the day:  Work hard, dream big, never give up
  3. Today I started with the Data Analyst in Python in Dataquest course (remembering python)
  4. Today the founder of womentech network wrote to me congratulating me for being part of the Global Ambassador at WomenTech Network, it is fabulous to belong to communities where you have support and above all they share knowledge. If you want to join I leave you the link  https://www.womentech.net/women-tech-global-awards?join=NzY4Ng==
@@ -632,5 +642,19 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Work hard, dream big, never give up][D33.2]
 
 
+## Day 34 - D27 #60daysofudacity : Tuesday, January 05, 2021
+ 
+ 1. Today continued with Lesson 4: Practice Project (4.5)🤓💜
+ 2. My quote of the day:  “Intellectual growth should commence at birth and cease only at death.” ― Albert Einstein
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 34 - D27  #60daysofudacity
+![Advance Day 34][D34.1]
+#### My quote of the day:  “Intellectual growth should commence at birth and cease only at death.” ― Albert Einstein
+![Albert Einstein][D34.2]
 
 
