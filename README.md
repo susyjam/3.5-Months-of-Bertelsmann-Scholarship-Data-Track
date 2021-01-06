@@ -101,8 +101,9 @@
 [D33.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D33%20D26.2%20DT.jpg
 [D34.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D34%20D27.1%20DT.png
 [D34.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D34%20D27.2%20DT.jpg
-[D35.1]: .
-[D35.2]: .
+[D35.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.1%20DT.png
+[D35.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.2%20DT.jpg
+[D35.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.3%20ReyeMagos.jpg
 [D36.1]: .
 [D36.2]: .
 [D37.1]: .
@@ -657,4 +658,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day:  “Intellectual growth should commence at birth and cease only at death.” ― Albert Einstein
 ![Albert Einstein][D34.2]
 
+
+## Day 35 - D28 #60daysofudacity : Wednesday, January 06, 2021 
+
+ 1. Today continued with Lesson 4: Practice Project (4.6)🤓💜
+ 2. My quote of the day: “Live as if you were to die tomorrow. Learn as if you were to live forever.”
+ 3. Being next to family and friends is the most valuable gift of Kings of all. ♡ Feliz día de Reyes Magos 
+ 4. Today I continued with the Data Analyst in Python in Dataquest course with python
+ 5. I shared some of my goals in this 2021, you could also share if you wish in the channel #relax ... I leave the link https://bertelsmann-datatrack.slack.com/archives/C01G66U7U3B/p1609889304235000
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 35 - D28  #60daysofudacity
+![Advance Day 35][D35.1]
+#### My quote of the day: “Live as if you were to die tomorrow. Learn as if you were to live forever.”
+![Live as if you were to die tomorrow. Learn as if you were to live foreve][D35.2]
+#### Being next to family and friends is the most valuable gift of Kings of all. ♡ Feliz día de Reyes Magos 
+![Feliz día de Reyes Magos][D35.3]
 
