@@ -104,8 +104,8 @@
 [D35.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.1%20DT.png
 [D35.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.2%20DT.jpg
 [D35.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.3%20ReyeMagos.jpg
-[D36.1]: .
-[D36.2]: .
+[D36.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D36%20D29.1%20DT.png
+[D36.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D36%20D29.2%20DT.jpg
 [D37.1]: .
 [D37.2]: .
 [D38.1]: .
@@ -677,4 +677,21 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Live as if you were to die tomorrow. Learn as if you were to live foreve][D35.2]
 #### Being next to family and friends is the most valuable gift of Kings of all. ♡ Feliz día de Reyes Magos 
 ![Feliz día de Reyes Magos][D35.3]
+
+
+## Day 36 - D29 #60daysofudacity : Thursday, January 07, 2021 
+
+ 1. Today continued with Lesson 4: Practice Project (4.7)🤓💜
+ 2. My quote of the day: “Change is the end result of all true learning.”
+ 3. Today I continued with the Data Analyst in Python in Dataquest course with python
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 36 - D29  #60daysofudacity
+![Advance Day 36][D36.1]
+#### My quote of the day: “Change is the end result of all true learning.”
+![Change is the end result of all true learning][D36.2]
+
 
