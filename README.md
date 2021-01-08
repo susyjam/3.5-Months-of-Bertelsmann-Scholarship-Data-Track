@@ -106,12 +106,36 @@
 [D35.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D35%20D28.3%20ReyeMagos.jpg
 [D36.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D36%20D29.1%20DT.png
 [D36.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D36%20D29.2%20DT.jpg
-[D37.1]: .
-[D37.2]: .
+[D37.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D37%20D30.1%20DT.png
+[D37.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D37%20D30.2%20DT.jpg
 [D38.1]: .
 [D38.2]: .
 [D39.1]: . 
 [D39.2]: .
+[D40.1]: . 
+[D40.2]: .
+[D41.1]: . 
+[D41.2]: .
+[D42.1]: . 
+[D42.2]: .
+[D43.1]: . 
+[D43.2]: .
+[D44.1]: . 
+[D44.2]: .
+[D45.1]: . 
+[D45.2]: .
+[D47.1]: . 
+[D47.2]: .
+[D48.1]: . 
+[D48.2]: .
+[D49.1]: .
+[D49.2]: .
+[D50.1]: . 
+[D50.2]: .
+[D51.1]: . 
+[D51.2]: .
+
+
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -694,4 +718,20 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day: “Change is the end result of all true learning.”
 ![Change is the end result of all true learning][D36.2]
 
+
+## Day 37 - D30 #60daysofudacity : Friday, January 08, 2021 
+
+ 1. Today continued with Lesson 4: Practice Project (4.8)🤓💜
+ 2. My quote of the day:  “Do not let what you cannot do interfere with what you can do.” – John Wooden
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. I want to share with you a song that encouraged me the day https://www.youtube.com/watch?v=AEp08vVYreg
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 37 - D30  #60daysofudacity
+![Advance Day 37][D37.1]
+#### My quote of the day:  “Do not let what you cannot do interfere with what you can do.” – John Wooden
+![ John Wooden ][D37.2]
 
