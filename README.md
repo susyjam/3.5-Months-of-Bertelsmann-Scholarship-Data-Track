@@ -108,8 +108,11 @@
 [D36.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D36%20D29.2%20DT.jpg
 [D37.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D37%20D30.1%20DT.png
 [D37.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D37%20D30.2%20DT.jpg
-[D38.1]: .
-[D38.2]: .
+[D38.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.1%20DT.png
+[D38.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.2%20DT.png
+[D38.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.3.png
+[D38.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.4%20DT.png
+[D38.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.5%20DT.jpg
 [D39.1]: . 
 [D39.2]: .
 [D40.1]: . 
@@ -735,3 +738,25 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day:  “Do not let what you cannot do interfere with what you can do.” – John Wooden
 ![ John Wooden ][D37.2]
 
+
+## Day 38 - D31 #60daysofudacity : Saturday, January 09, 2021 
+
+ 1. Today Finished with Lesson 4: Practice Project (4.9)🤓💜 Yeiii!!
+ 2. My quote of the day:  Some days. it's Easier; Other days. it's Harder...Be it easy or hard, the only way to get there is to START
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. Today we had the 4th study meeting.:blob_cheer:...Guillermo today presented us with an example (Mechanical Repair Rates) applying Linear model in python, thanks for your presentation @Guillermo Fontánez. And thanks for attending @Guillermo Fontánez @Nicolás Campos @Gustavo @Sandra @Joaquin @Priscila Espinoza @Ysabel Nava @Edgar Chacon @tife @María Ortiz @DavidGabrielSilvera@susyjam It was great to have a fun time and play a little.
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 38- D31 #60daysofudacity
+![Advance Day 38][D38.1]
+#### My quote of the day: Some days. it's Easier; Other days. it's Harder...Be it easy or hard, the only way to get there is to START
+![ Some days. it's Easier; Other days. it's Harder...Be it easy or hard, the only way to get there is to START ][D38.2]
+#### Fourth meeting as a study group #sg_spanish 
+![fourth meeting as a study group #sg_spanish ][D38.3] 
+#### Playing a bit with the study group #sg_spanish 
+![fourth meeting as a study group #sg_spanish ][D38.4] 
+#### I happy to finish the Fourth lesson ♡
+![yeii ][D38.5]
