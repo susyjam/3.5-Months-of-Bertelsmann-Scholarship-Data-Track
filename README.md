@@ -116,8 +116,8 @@
 [D39.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.1.png
 [D39.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.2.jpg
 [D39.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.3.jpg
-[D40.1]: . 
-[D40.2]: .
+[D40.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D40%20D33.1%20DT.png
+[D40.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D40%20D33.2%20DT.jpg
 [D41.1]: . 
 [D41.2]: .
 [D42.1]: . 
@@ -780,4 +780,20 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![ “When we stop opposing reality, action becomes simple, fluid, kind, and fearless.” – Byron Katie ][D39.3]
 #### Meeting as a study group #sg_weekend_club
 ![fourth meeting as a study group #sg_spanish ][D39.2] 
+
+
+## Day 40 - D33 #60daysofudacity : Monday, January 11, 2021 
+
+ 1. Today I continued with Lesson 5: Project(Optional): Predicting Catalog Demand (5.3)🤓💜 
+ 2. My quote of the day: “Rise above the storm and you will find the sunshine.” – Mario Fernandez
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 40- D33 #60daysofudacity
+![Advance Day 40][D40.1]
+#### My quote of the day: “Rise above the storm and you will find the sunshine.” – Mario Fernandez
+![ “Rise above the storm and you will find the sunshine.” – Mario Fernandez ][D40.2]
 
