@@ -113,8 +113,9 @@
 [D38.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.3.png
 [D38.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.4%20DT.png
 [D38.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D38%20D31.5%20DT.jpg
-[D39.1]: . 
-[D39.2]: .
+[D39.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.1.png
+[D39.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.2.jpg
+[D39.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.3.jpg
 [D40.1]: . 
 [D40.2]: .
 [D41.1]: . 
@@ -760,3 +761,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![fourth meeting as a study group #sg_spanish ][D38.4] 
 #### I happy to finish the Fourth lesson ♡
 ![yeii ][D38.5]
+
+
+## Day 39 - D32 #60daysofudacity : Sunday, January 10, 2021 
+
+ 1. Today I started with Lesson 5: Project(Optional): Predicting Catalog Demand (5.1 - 5.2)🤓💜 
+ 2. My quote of the day:  “When we stop opposing reality, action becomes simple, fluid, kind, and fearless.” – Byron Katie
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. Today I joined my first meeting with the group #sg_weekend_club with @Aastha gautam, @Avinash Kumar, @Joseph Henry, @Kapil C, @LinetteK, @Manishrwt004, @sooter. l encourage myself to solve quizzes 🤓💜
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 39- D32 #60daysofudacity
+![Advance Day 39][D39.1]
+#### My quote of the day: “When we stop opposing reality, action becomes simple, fluid, kind, and fearless.” – Byron Katie
+![ “When we stop opposing reality, action becomes simple, fluid, kind, and fearless.” – Byron Katie ][D39.3]
+#### Meeting as a study group #sg_weekend_club
+![fourth meeting as a study group #sg_spanish ][D39.2] 
+
