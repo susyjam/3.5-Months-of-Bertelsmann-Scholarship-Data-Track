@@ -118,8 +118,8 @@
 [D39.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D39%20D32.3.jpg
 [D40.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D40%20D33.1%20DT.png
 [D40.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D40%20D33.2%20DT.jpg
-[D41.1]: . 
-[D41.2]: .
+[D41.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D41%20D34.1%20DT.png
+[D41.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D41%20D34.2%20DT.jpg
 [D42.1]: . 
 [D42.2]: .
 [D43.1]: . 
@@ -138,6 +138,44 @@
 [D50.2]: .
 [D51.1]: . 
 [D51.2]: .
+[D52.1]: . 
+[D52.2]: .
+[D53.1]: . 
+[D53.2]: .
+[D54.1]: . 
+[D54.2]: .
+[D55.1]: . 
+[D55.2]: .
+[D56.1]: . 
+[D56.2]: .
+[D57.1]: . 
+[D57.2]: .
+[D58.1]: . 
+[D58.2]: .
+[D59.1]: . 
+[D59.2]: .
+[D60.1]: . 
+[D60.2]: .
+[D61.1]: . 
+[D61.2]: .
+[D62.1]: . 
+[D62.2]: .
+[D63.1]: . 
+[D63.2]: .
+[D64.1]: . 
+[D64.2]: .
+[D65.1]: . 
+[D65.2]: .
+[D66.1]: . 
+[D66.2]: .
+[D67.1]: . 
+[D67.2]: .
+[D68.1]: . 
+[D68.2]: .
+[D69.1]: . 
+[D69.2]: .
+[D70.1]: . 
+[D70.2]: .
 
 
 
@@ -797,3 +835,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day: “Rise above the storm and you will find the sunshine.” – Mario Fernandez
 ![ “Rise above the storm and you will find the sunshine.” – Mario Fernandez ][D40.2]
 
+
+## Day 41 - D34 #60daysofudacity : Tuesday, January 12, 2021 
+
+ 1. Today I continued with Lesson 5: Project(Optional): Predicting Catalog Demand (5.4)🤓💜 
+ 2. My quote of the day: “The first step is you have to say that you can.” – Will Smith
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 40- D33 #60daysofudacity
+![Advance Day 41][D41.1]
+#### My quote of the day: “The first step is you have to say that you can.” – Will Smith
+![ Will Smith ][D41.2]
