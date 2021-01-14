@@ -120,8 +120,8 @@
 [D40.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D40%20D33.2%20DT.jpg
 [D41.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D41%20D34.1%20DT.png
 [D41.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D41%20D34.2%20DT.jpg
-[D42.1]: . 
-[D42.2]: .
+[D42.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D42%20D35.1%20DT.png
+[D42.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D42%20D35.2.jpg
 [D43.1]: . 
 [D43.2]: .
 [D44.1]: . 
@@ -850,3 +850,19 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Advance Day 41][D41.1]
 #### My quote of the day: “The first step is you have to say that you can.” – Will Smith
 ![ Will Smith ][D41.2]
+
+
+## Day 42 - D35 #60daysofudacity : Wednesday, January 13, 2021 
+
+ 1. Today I continued with Lesson 5: Project(Optional): Predicting Catalog Demand (5.5)🤓💜 
+ 2. My quote of the day: I loved this phrase even though it's in Spanish "go at your own pace, do not see other people's clocks."
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 40- D33 #60daysofudacity
+![Advance Day 42][D42.1]
+#### My quote of the day: I loved this phrase even though it's in Spanish "go at your own pace, do not see other people's clocks."
+![ Will Smith ][D42.2]
