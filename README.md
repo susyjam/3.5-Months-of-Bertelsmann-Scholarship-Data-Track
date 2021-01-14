@@ -122,8 +122,8 @@
 [D41.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D41%20D34.2%20DT.jpg
 [D42.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D42%20D35.1%20DT.png
 [D42.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D42%20D35.2.jpg
-[D43.1]: . 
-[D43.2]: .
+[D43.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D43%20D36.1%20DT.png
+[D43.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D43%20D36.2.jpeg
 [D44.1]: . 
 [D44.2]: .
 [D45.1]: . 
@@ -865,4 +865,22 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My progress Day 42- D35 #60daysofudacity
 ![Advance Day 42][D42.1]
 #### My quote of the day: I loved this phrase even though it's in Spanish "go at your own pace, do not see other people's clocks."
-![ Will Smith ][D42.2]
+![ I loved this phrase even though it's in Spanish "go at your own pace, do not see other people's clocks. ][D42.2]
+
+
+
+## Day 43 - D36 #60daysofudacity : Thursday, January 14, 2021 
+
+ 1. Today I continued with Lesson 5: Project(Optional): Predicting Catalog Demand (5.6)🤓💜 
+ 2. My quote of the day: Many times the plans are made day by day without forgetting the reality
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. today I continued with the Machine Learning Engineer with Microsoft Azure course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 43- D36 #60daysofudacity
+![Advance Day 43][D43.1]
+#### My quote of the day: Many times the plans are made day by day without forgetting the reality
+![ Many times the plans are made day by day without forgetting the reality ][D43.2]
