@@ -846,7 +846,7 @@ My progress log link on github
 
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
 
-#### My progress Day 40- D33 #60daysofudacity
+#### My progress Day 41- D34 #60daysofudacity
 ![Advance Day 41][D41.1]
 #### My quote of the day: “The first step is you have to say that you can.” – Will Smith
 ![ Will Smith ][D41.2]
@@ -862,7 +862,7 @@ My progress log link on github
 
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
 
-#### My progress Day 40- D33 #60daysofudacity
+#### My progress Day 42- D35 #60daysofudacity
 ![Advance Day 42][D42.1]
 #### My quote of the day: I loved this phrase even though it's in Spanish "go at your own pace, do not see other people's clocks."
 ![ Will Smith ][D42.2]
