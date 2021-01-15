@@ -889,7 +889,7 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 ## Day 44 - D37 #60daysofudacity : Friday, January 15, 2021 
 
- 1. Today I Finished with Lesson 5: Project(Optional): Predicting Catalog Demand (5.)7🤓💜  yeiii!
+ 1. Today I Finished with Lesson 5: Project(Optional): Predicting Catalog Demand (5.7)🤓💜  yeiii!
  2. My quote of the day: You only fail when you stop trying... don't stop trying
  3. Today I continued with the Data Analyst in Python in Dataquest course
  4. Today I continued with the Machine Learning Engineer with Microsoft Azure course
