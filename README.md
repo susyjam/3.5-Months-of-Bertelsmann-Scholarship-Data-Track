@@ -124,8 +124,9 @@
 [D42.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D42%20D35.2.jpg
 [D43.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D43%20D36.1%20DT.png
 [D43.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D43%20D36.2.jpeg
-[D44.1]: . 
-[D44.2]: .
+[D44.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.1%20DT.png
+[D44.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.2.png
+[D44.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.3%20DT.jpg
 [D45.1]: . 
 [D45.2]: .
 [D47.1]: . 
@@ -884,3 +885,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![Advance Day 43][D43.1]
 #### My quote of the day: Many times the plans are made day by day without forgetting the reality
 ![ Many times the plans are made day by day without forgetting the reality ][D43.2]
+
+
+## Day 44 - D37 #60daysofudacity : Friday, January 15, 2021 
+
+ 1. Today I Finished with Lesson 5: Project(Optional): Predicting Catalog Demand (5.)7🤓💜  yeiii!
+ 2. My quote of the day: You only fail when you stop trying... don't stop trying
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My progress Day 44- D37 #60daysofudacity
+![Advance Day 44][D44.1]
+#### My quote of the day: You only fail when you stop trying... don't stop trying
+![ You only fail when you stop trying... don't stop trying ][D44.2]
+#### I happy to finish the fifth lesson ♡
+![yeii ][D44.3]
+
