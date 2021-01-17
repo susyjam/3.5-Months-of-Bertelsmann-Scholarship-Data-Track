@@ -127,8 +127,10 @@
 [D44.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.1%20DT.png
 [D44.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.2.png
 [D44.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D44%20D37.3%20DT.jpg
-[D45.1]: . 
-[D45.2]: .
+[D45.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.2.png
+[D45.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.3%20meeting%20%23sg_spanish%205.png
+[D45.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.4%20meeting%20%23sg_spanish%205.png
+[D45.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.4%20meetup_data_vis.png
 [D47.1]: . 
 [D47.2]: .
 [D48.1]: . 
@@ -905,3 +907,23 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### I happy to finish the fifth lesson ♡
 ![yeii ][D44.3]
 
+
+## Day 45 - D38 #60daysofudacity : Saturday, January 16, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: Chances of Success... I did
+ 3. Today I continued with the Data Analyst in Python in Dataquest course
+ 4. Today I attended the #sg_art_of_visualization meeting. I met some fabulous people @Oluwatosin @Rachel_Kam @Syed Haider Ali Shah @Avinash Kumar
+ 5. Today we had the 5th study meeting with #sg_spanish!. Nicolas presented us with an example at alteryx, thanks for your presentation @Nicolás Campos. We participated in a dynamic to get to know each other better (two truths one lie) Thanks for coming @Jaime González @Sandra @Gustavo @Ninon Aguilera @Joaquin @Priscila Espinoza @Viena Baca @Nicolás Campos @Edgar Chacon @susyjam, it's great to have fun and learn with all of you. 💜
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Chances of Success... I did
+![ Chances of Success... I did ][D45.2]
+#### meeting with the study group #sg_art_of_visualization
+![ meeting with the study group #sg_art_of_visualization ][D45.5]
+#### Fifth meeting with the study group #sg_spanish 
+![Fifth meeting with the study group #sg_spanish  ][D45.3] 
+![ Fifth meeting with the study group #sg_spanish  ][D45.4] 
