@@ -132,8 +132,7 @@
 [D45.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.4%20meeting%20%23sg_spanish%205.png
 [D45.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.4%20meetup_data_vis.png
 [D46.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D46%20D39.2.jpg
-[D47.1]: . 
-[D47.2]: .
+[D47.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D47%20D40.2%20DT.jpg
 [D48.1]: . 
 [D48.2]: .
 [D49.1]: .
@@ -941,4 +940,18 @@ My progress log link on github
 Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
 
 #### My quote of the day: LIVE 💜
-![ Chances of Success... I did ][D46.1]
+![ LIVE ][D46.1]
+
+
+## Day 47 - D40 #60daysofudacity : Monday, January 18, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day:  "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better". – Samuel Beckett...Try Again always 💜
+ 3. To start the week I would like to share a song that always tends to lift my spirits https://youtu.be/RglMIKG0GFw, have a great start to the week
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better". – Samuel Beckett...Try Again always 💜
+![ Try Again always][D47.1]
