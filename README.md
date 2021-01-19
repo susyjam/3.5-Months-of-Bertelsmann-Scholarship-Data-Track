@@ -133,8 +133,7 @@
 [D45.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D45%20D38.4%20meetup_data_vis.png
 [D46.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D46%20D39.2.jpg
 [D47.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D47%20D40.2%20DT.jpg
-[D48.1]: . 
-[D48.2]: .
+[D48.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D48%20D41.2%20DT.jpg
 [D49.1]: .
 [D49.2]: .
 [D50.1]: . 
@@ -955,3 +954,19 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 #### My quote of the day: "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better". – Samuel Beckett...Try Again always 💜
 ![ Try Again always][D47.1]
+
+
+## Day 48 - D41 #60daysofudacity : Tuesday, January 19, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. Today I continued with the Data Analyst in Python in Dataquest course
+ 3. My quote of the day: You are capable of amazing things... Believe in yourself 💜
+ 4. Today I reviewed this very interesting article https://pbpython.com/dataframe-gui-overview.html
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca  @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  You are capable of amazing things... Believe in yourself 💜
+![ You are capable of amazing things... Believe in yourself][D48.1]
+
