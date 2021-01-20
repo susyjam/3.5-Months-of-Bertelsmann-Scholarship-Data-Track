@@ -134,8 +134,8 @@
 [D46.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D46%20D39.2.jpg
 [D47.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D47%20D40.2%20DT.jpg
 [D48.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D48%20D41.2%20DT.jpg
-[D49.1]: .
-[D49.2]: .
+[D49.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D49%20D42.1%20DT.png
+[D49.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D49%20D42.2%20Meeting%20SG%20ENES.png
 [D50.1]: . 
 [D50.2]: .
 [D51.1]: . 
@@ -970,3 +970,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day:  You are capable of amazing things... Believe in yourself 💜
 ![ You are capable of amazing things... Believe in yourself][D48.1]
 
+
+## Day 49 - D42 #60daysofudacity : Wednesday, January 20, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: “If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.” – Steve Jobs
+ 3. Today we had the first meeting of the group #sg_spanish_english  It was great to meet you guys @PuzzleDots @Pedro @Priscilla @Dragana Jovancevic @maibelca @Edgar Chacon :blob_cheer:
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca  @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  “If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.” – Steve Jobs
+![ Steve Jobs][D49.1]
+#### First meeting with the study group #sg_spanish_english 
+![First meeting with the study group #sg_spanish_english  ][D49.2] 
