@@ -138,8 +138,10 @@
 [D49.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D49%20D42.2%20Meeting%20SG%20ENES.png
 [D50.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D50%20D43.1%20DT.jpg
 [D51.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D51%20D44.1%20DT.jpg
-[D52.1]: . 
-[D52.2]: .
+[D52.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.1%20DT.jpg
+[D52.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.2%20DT%20Bingo%20Progress%20JSMC.png
+[D52.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.3%20DT%20.png
+[D52.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.4%20DT.jpg
 [D53.1]: . 
 [D53.2]: .
 [D54.1]: . 
@@ -1012,3 +1014,22 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![ “Life is like riding a bicycle. To keep your balance you must keep moving.” – Albert Einstein][D51.1]
 
 
+## Day 52 - D45 #60daysofudacity : Saturday, January 23, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course(proyect)
+ 2. My quote of the day: “Every small positive change we make in ourselves repays us in confidence in the future.” – Alice Walker
+ 3. Today I am participating in the Study jam, it is very great so far.
+ 4. I will share my progress in bingo, I still need to do some activities
+ 5. I invite you to participate in the Study Jam https://bertelsmann-datatrack.slack.com/archives/C01ETPHEE6M/p1611386164116200
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca  @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  “Every small positive change we make in ourselves repays us in confidence in the future.” – Alice Walker💜
+![“Every small positive change we make in ourselves repays us in confidence in the future.” – Alice Walker][D52.1]
+#### My progress in bingo 💜
+![ Bingo ][D52.2]
+#### First Study Jam 💜
+![ First Study Jam  1][D52.3]
+![ First Study Jam  ][D52.4]
