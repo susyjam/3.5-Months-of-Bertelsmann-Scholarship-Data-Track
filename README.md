@@ -1039,4 +1039,26 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 ![ First Study Jam  ][D52.4]
 
 
-![ First Study Jam  ][D52.4]
+## Day 53 - D46 #60daysofudacity : Sunday, January 24, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course(proyect)
+ 2. Finish completing the bimbo yeeii
+ 3. I continued participating in the Study Jam, I started with a relaxation activity related to harry potter (My favorite) asking questions, thanks to all who were able to participate.
+ 4. I was delighted to see many who were able to share their Study Jam badges, Is a small gift for the hard work they did for 24 hours, I hope you enjoyed all the activities. Thanks @Jonathan Papworth for all the support you are awesome and to all who made this fabulous Study jam possible 💜
+ 5. Today we had the 6th study meeting with #sg_spanish... Edgar presented us with a very interesting example in Excel and R, thanks for your presentation @Edgar Chacon. Thanks for coming @Nicolás Campos @Jaime González @Ysabel Nava @Sandra @Edgar Chacon @N. Lionel @Gustavo @Priscila Espinoza @maibelca @Rodrigo @susyjam
+
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca  @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My bingo 💜
+![ Bingo ][D53.1]
+#### Badge Study Jam 💜
+![ First Study Jam  1][D53.2]
+#### Music Study Jam 💜
+link: https://open.spotify.com/playlist/12T6P8b872IHVpLIapcOZG?si=eolOzCcFRQqtSxqykQgSXQ
+![ First Study Jam  ][D53.3]
+#### Sixth meeting with the study group #sg_spanish 
+![Sixth meeting with the study group #sg_spanish  ][D53.6] 
+![ Sixth meeting with the study group #sg_spanish  ][D53.5] 
+![ Sixth meeting with the study group #sg_spanish  ][D53.4] 
