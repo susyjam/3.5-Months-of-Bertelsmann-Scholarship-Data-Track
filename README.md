@@ -1033,3 +1033,6 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### First Study Jam 💜
 ![ First Study Jam  1][D52.3]
 ![ First Study Jam  ][D52.4]
+
+
+![ First Study Jam  ][D52.4]
