@@ -142,8 +142,12 @@
 [D52.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.2%20DT%20Bingo%20Progress%20JSMC.png
 [D52.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.3%20DT%20.png
 [D52.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D52%20D45.4%20DT.jpg
-[D53.1]: . 
-[D53.2]: .
+[D53.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D46%20DT%20my%20Bingo%20JSMC.jpg
+[D53.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/STUDY-JAM-DT.png
+[D53.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Music%20Study%20Jam.png
+[D53.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.2%20DT%20Meeting%206th%20Sg_spanish.png
+[D53.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.3%20DT%20Meeting%206th%20Sg_spanish.png
+[D53.6]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.4%20DT%20Meeting%206th%20Sg_spanish.png
 [D54.1]: . 
 [D54.2]: .
 [D55.1]: . 
