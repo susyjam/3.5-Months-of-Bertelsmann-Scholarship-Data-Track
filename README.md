@@ -149,8 +149,7 @@
 [D53.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.3%20DT%20Meeting%206th%20Sg_spanish.png
 [D53.6]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.4%20DT%20Meeting%206th%20Sg_spanish.png
 [D54.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Smile.jpg
-[D55.1]: . 
-[D55.2]: .
+[D55.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D55%20D48.1%20DT.jpg
 [D56.1]: . 
 [D56.2]: .
 [D57.1]: . 
@@ -1063,8 +1062,6 @@ link: https://open.spotify.com/playlist/12T6P8b872IHVpLIapcOZG?si=eolOzCcFRQqtSx
 ![ Sixth meeting with the study group #sg_spanish  ][D53.4] 
 
 
-
-
 ## Day 54 - D47 #60daysofudacity : Monday, January 25, 2021 
 
  1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
@@ -1076,3 +1073,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 #### My quote of the day: smile 💜
 ![ Smile ][D54.1]
+
+
+## Day 55 - D48 #60daysofudacity : Tuesday, January 26, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. My quote of the day: “Rise above the storm and you will find the sunshine.” – Mario Fernandez
+ 3. I found this article quite curious https://community.alteryx.com/t5/Data-Science/How-Spooky-is-Your-City-Mapping-and-Predicting-Scary-Stuff/ba-p/657900
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  “Rise above the storm and you will find the sunshine.” – Mario Fernandez
+![ Mario Fernandez ][D55.1]
+
