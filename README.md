@@ -150,8 +150,7 @@
 [D53.6]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D53%20D45.4%20DT%20Meeting%206th%20Sg_spanish.png
 [D54.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Smile.jpg
 [D55.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D55%20D48.1%20DT.jpg
-[D56.1]: . 
-[D56.2]: .
+[D56.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D56%20D49.1%20DT.jpg
 [D57.1]: . 
 [D57.2]: .
 [D58.1]: . 
@@ -1088,3 +1087,16 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 #### My quote of the day:  “Rise above the storm and you will find the sunshine.” – Mario Fernandez
 ![ Mario Fernandez ][D55.1]
 
+
+## Day 56 - D49 #60daysofudacity : Wednesday, January 27, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. My quote of the day: “I’ve failed over and over and over again in my life. And that is why I succeed.” – Michael Jordan
+ 3. Study Jam feedback form https://docs.google.com/forms/d/e/1FAIpQLSf-s1-lKStR4-Kq1sNwgpVQxZv_n0ZeMKasGExFE4b2_pe6Nw/viewform 
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  “I’ve failed over and over and over again in my life. And that is why I succeed.” – Michael Jordan
+![ Michael Jordan ][D56.1]
