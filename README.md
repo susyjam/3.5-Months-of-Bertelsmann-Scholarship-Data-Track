@@ -152,8 +152,7 @@
 [D55.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D55%20D48.1%20DT.jpg
 [D56.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D56%20D49.1%20DT.jpg
 [D57.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D57%20D50.1%20DT.jpeg
-[D58.1]: . 
-[D58.2]: .
+[D58.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D58%20D51.1%20DT.png
 [D59.1]: . 
 [D59.2]: .
 [D60.1]: . 
@@ -1114,3 +1113,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 #### My quote of the day:  Every day brings a choice to practice stress or to practice peace - Joan Borysenko
 ![ Joan Borysenko ][D57.1]
+
+
+## Day 58 - D51 #60daysofudacity : Friday, January 29, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. My quote of the day: Alwasys go too far, because that's where you'll find the truth. - Albert Camus... Always venture beyond you're comfort zone; for that's where you'll discover new truths about yourself and the world.
+ 3. Today I started the Time Series Forecasting by Udacity course with lesson 1 https://classroom.udacity.com/courses/ud980
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  Alwasys go too far, because that's where you'll find the truth.- Albert Camus
+#### Always venture beyond you're comfort zone; for that's where you'll discover new truths about yourself and the world.
+![ Albert Camus ][D58.1]
