@@ -151,8 +151,7 @@
 [D54.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Smile.jpg
 [D55.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D55%20D48.1%20DT.jpg
 [D56.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D56%20D49.1%20DT.jpg
-[D57.1]: . 
-[D57.2]: .
+[D57.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D57%20D50.1%20DT.jpeg
 [D58.1]: . 
 [D58.2]: .
 [D59.1]: . 
@@ -1100,3 +1099,18 @@ Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseu
 
 #### My quote of the day:  “I’ve failed over and over and over again in my life. And that is why I succeed.” – Michael Jordan
 ![ Michael Jordan ][D56.1]
+
+
+
+## Day 57 - D50 #60daysofudacity : Thursday, January 28, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. My quote of the day: Every day brings a choice to practice stress or to practice peace - Joan Borysenko
+ 3. I found this article quite interesting https://www.hackerearth.com/practice/machine-learning/prerequisites-of-machine-learning/basic-probability-models-and-rules/tutorial/
+ 
+My progress log link on github
+
+Today I want to motivate @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @PuzzleDots @Syed Haider Ali Shah  @Agni  @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  Every day brings a choice to practice stress or to practice peace - Joan Borysenko
+![ Joan Borysenko ][D57.1]
