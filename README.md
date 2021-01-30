@@ -153,7 +153,7 @@
 [D56.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D56%20D49.1%20DT.jpg
 [D57.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D57%20D50.1%20DT.jpeg
 [D58.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D58%20D51.1%20DT.png
-[D59.1]: . 
+[D59.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.1%20DT%20meeting%207%20SG_spanish.png
 [D59.2]: .
 [D60.1]: . 
 [D60.2]: .
