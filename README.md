@@ -1128,3 +1128,19 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 #### My quote of the day:  Alwasys go too far, because that's where you'll find the truth.- Albert Camus
 #### Always venture beyond you're comfort zone; for that's where you'll discover new truths about yourself and the world.
 ![ Albert Camus ][D58.1]
+
+
+
+## Day 59 - D52 #60daysofudacity : Saturday, January 30, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. Today I continued the Time Series Forecasting by Udacity course with lesson 1 https://classroom.udacity.com/courses/ud980
+ 3. Today we had the 7th study meeting.:blob_cheer: yeiii!... @Jaime González gave us a great presentation about data visualization in excel, good tips Thanks for coming @Nicolás Campos @Jaime González @Priscila Espinoza @Sandra @susyjam.
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### Sixth meeting with the study group #sg_spanish 
+![7th meeting with the study group #sg_spanish  ][D59.1] 
+![7th meeting with the study group #sg_spanish  ][D59.2] 
