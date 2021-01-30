@@ -154,7 +154,7 @@
 [D57.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D57%20D50.1%20DT.jpeg
 [D58.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D58%20D51.1%20DT.png
 [D59.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.1%20DT%20meeting%207%20SG_spanish.png
-[D59.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.2%20DT%20meeting%207%20SG_spanish.png
+[D59.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.2%20DT.png
 [D60.1]: . 
 [D60.2]: .
 [D61.1]: . 
@@ -1141,6 +1141,6 @@ My progress log link on github
 
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
 
-#### Sixth meeting with the study group #sg_spanish 
-![7th meeting with the study group #sg_spanish  ][D59.1] 
+#### 7th meeting with the study group #sg_spanish 
 ![7th meeting with the study group #sg_spanish  ][D59.2] 
+![7th meeting with the study group #sg_spanish yeiii ][D59.1] 
