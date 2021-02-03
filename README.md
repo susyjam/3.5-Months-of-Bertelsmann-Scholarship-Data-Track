@@ -155,12 +155,7 @@
 [D58.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D58%20D51.1%20DT.png
 [D59.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.1%20DT%20meeting%207%20SG_spanish.png
 [D59.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.2%20DT.png
-[D61.1]: . 
-[D61.2]: .
-[D62.1]: . 
-[D62.2]: .
-[D63.1]: . 
-[D63.2]: .
+[D63.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D63%20D56.1%20DT.jpg
 [D64.1]: . 
 [D64.2]: .
 [D65.1]: . 
@@ -177,7 +172,10 @@
 [D70.2]: .
 [D71.1]: . 
 [D71.2]: .
-
+[D72.1]: . 
+[D72.2]: .
+[D73.1]: . 
+[D73.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1176,3 +1174,21 @@ My progress log link on github
 
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
 
+
+
+
+## Day 63 - D56 #60daysofudacity : Wednesday, February  3, 2021 
+
+ 1. Today I read this quite interesting article about Top data visualization examples and dashboard designs
+  https://uxdesign.cc/top-data-visualization-examples-and-dashboard-designs-9465e9a519b
+ 2. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 3. Today I read this article about How to improve a bad data visualization
+  https://uxdesign.cc/how-to-improve-a-bad-data-visualization-cd114a44006b
+ 4. My quote of the day: “I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear.” — Rosa Parks
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  “I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear.” — Rosa Parks
+![ Rosa Parks ][D63.1]
