@@ -156,8 +156,7 @@
 [D59.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.1%20DT%20meeting%207%20SG_spanish.png
 [D59.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.2%20DT.png
 [D63.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D63%20D56.1%20DT.jpg
-[D64.1]: . 
-[D64.2]: .
+[D64.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D64%20D57.1%20DT.jpg
 [D65.1]: . 
 [D65.2]: .
 [D66.1]: . 
@@ -176,6 +175,8 @@
 [D72.2]: .
 [D73.1]: . 
 [D73.2]: .
+[D74.1]: .
+[D74.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1192,3 +1193,17 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day:  “I have learned over the years that when one’s mind is made up, this diminishes fear; knowing what must be done does away with fear.” — Rosa Parks
 ![ Rosa Parks ][D63.1]
+
+
+
+## Day 64 - D57 #60daysofudacity : Thursday, February  4, 2021 
+
+ 2. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 4. My quote of the day: “Defeat is simply a signal to press onward.” – Helen Keller
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: “Defeat is simply a signal to press onward.” – Helen Keller
+![ Rosa Parks ][D64.1]
