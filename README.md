@@ -157,7 +157,7 @@
 [D59.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D59%20D52.2%20DT.png
 [D63.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D63%20D56.1%20DT.jpg
 [D64.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D64%20D57.1%20DT.jpg
-[D65.1]: . 
+[D65.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D65%20D58%20DT.jpg
 [D65.2]: .
 [D66.1]: . 
 [D66.2]: .
@@ -1207,3 +1207,18 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: “Defeat is simply a signal to press onward.” – Helen Keller
 ![ Rosa Parks ][D64.1]
+
+
+## Day 65 - D58 #60daysofudacity : Friday, February  5, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course (project)
+ 2. My quote of the day: One day or Day one you decide.
+ 3. Today I read this article about The best way for designers to learn data visualization https://uxdesign.cc/the-best-way-for-designers-to-learn-data-visualization-b3fc4b87dd39
+ 
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: One day or Day one you decide.
+![ Rosa Parks ][D65.1]
