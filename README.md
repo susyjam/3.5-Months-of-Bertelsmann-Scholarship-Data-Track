@@ -158,9 +158,8 @@
 [D63.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D63%20D56.1%20DT.jpg
 [D64.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D64%20D57.1%20DT.jpg
 [D65.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D65%20D58%20DT.jpg
-[D65.2]: .
-[D66.1]: . 
-[D66.2]: .
+[D66.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D66%20D59.1%20DT.jpg
+[D66.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D66%20D59.2%20DT.jpg
 [D67.1]: . 
 [D67.2]: .
 [D68.1]: . 
@@ -1222,3 +1221,21 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: One day or Day one you decide.
 ![ Rosa Parks ][D65.1]
+
+
+## Day 66 - D59 #60daysofudacity : Saturday, February  6, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. I participated in the Mid Jam talks!💜
+ 2.1. People Skills for Analytical Thinkers - Gilbert Eijkelenboom
+ 2.2. Lateral Thinking for Data Analysis - @Paola Redaelli
+ 2.3. Know Your Audience - @Esma
+ Thank you @Jonathan Papworth @Vedanth Baliga @birozso @David Berumen Amazing sessions today.
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### Mid Jam talks
+![ Mid Jam talk ][D66.1]
+![ Mid Jam talks ][D66.2]
