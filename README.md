@@ -161,8 +161,7 @@
 [D66.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D66%20D59.1%20DT.jpg
 [D66.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D66%20D59.2%20DT.jpg
 [D67.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D67%20D60.1%20DT.png
-[D68.1]: . 
-[D68.2]: .
+[D68.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D68%20D61.1%20DT.jpg
 [D69.1]: . 
 [D69.2]: .
 [D70.1]: . 
@@ -183,6 +182,7 @@
 [D77.2]: .
 [D78.1]: .
 [D78.2]: .
+[D79.1]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1261,4 +1261,17 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: Pause breathe. Cry if you must. But keep going
 ![ Rosa Parks ][D67.1]
+
+
+## Day 68 - D61 #60daysofudacity : Monday, February  8, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: What's coming is better than what's gone!
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: What's coming is better than what's gone!
+![ What's coming is better than what's gone! ][D68.1]
 
