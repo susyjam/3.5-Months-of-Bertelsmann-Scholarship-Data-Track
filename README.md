@@ -163,8 +163,8 @@
 [D67.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D67%20D60.1%20DT.png
 [D68.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D68%20D61.1%20DT.jpg
 [D69.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D69%20D62%20DT.jpg
-[D70.1]: . 
-[D70.2]: .
+[D69.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Clase%20diplomado%20ES.png
+[D70.1]: .
 [D71.1]: . 
 [D71.2]: .
 [D72.1]: . 
@@ -1273,4 +1273,20 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: What's coming is better than what's gone!
 ![ What's coming is better than what's gone! ][D68.1]
+
+
+## Day 69 - D62 #60daysofudacity : Tuesday, February  9, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: A little progress each day adds up to big results
+ 3. Today I had my first class of a Diploma in higher education
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: A little progress each day adds up to big results
+![ a little progress each day adds up to big results ][D69.1]
+#### My first class of a Diploma in higher education
+![ my first class of a Diploma in higher education ][D69.2]
 
