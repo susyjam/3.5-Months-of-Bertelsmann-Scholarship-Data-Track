@@ -164,7 +164,9 @@
 [D68.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D68%20D61.1%20DT.jpg
 [D69.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D69%20D62%20DT.jpg
 [D69.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Clase%20diplomado%20ES.png
-[D70.1]: .
+[D70.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.1%20DT%20M.jpg
+[D70.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.2%20Badge%20data%20track.png
+[D70.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.3%20Honorable%20mentions%20wall.png
 [D71.1]: . 
 [D71.2]: .
 [D72.1]: . 
@@ -1289,4 +1291,22 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ a little progress each day adds up to big results ][D69.1]
 #### My first class of a Diploma in higher education
 ![ my first class of a Diploma in higher education ][D69.2]
+
+
+## Day 70 - D63 #60daysofudacity : Wednesday, February  10, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: Motivation gets you going and habit gets you there
+ 3. Today I filled out the form "I Completed the 60 Days of Udacity Challenge!" https://docs.google.com/forms/d/e/1FAIpQLSestmH7ITnYP71pSH8BJD7FWaUPh4gBMLQEBcQ15eTyXuOtjQ/viewform
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa   @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Motivation gets you going and habit gets you there
+![ motivation gets you going and habit gets you there ][D70.1]
+#### My badge #60daysofudacity
+![ My badge #60daysofudacity ][D70.2]
+#### Data Track - Honorable Mentions Wall 
+![ Data Track - Honorable Mentions Wall ][D70.3]
 
