@@ -167,8 +167,9 @@
 [D70.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.1%20DT%20M.jpg
 [D70.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.2%20Badge%20data%20track.png
 [D70.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D70%20D63.3%20Honorable%20mentions%20wall.png
-[D71.1]: . 
-[D71.2]: .
+[D71.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.1%20DT.jpg
+[D71.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.2%20DT.jpg
+[D71.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.3%20DT.png
 [D72.1]: . 
 [D72.2]: .
 [D73.1]: . 
@@ -1309,4 +1310,24 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ My badge #60daysofudacity ][D70.2]
 #### Data Track - Honorable Mentions Wall 
 ![ Data Track - Honorable Mentions Wall ][D70.3]
+
+
+
+## Day 71 - D64 #60daysofudacity : Thursday, February  11, 2021 
+
+ 1. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 2. My quote of the day: I can & I will
+ 3. For more curious nerds ♡ 🤓 📚👩🏻‍🔬👩🏻‍💻....Happy International Day of Women and Girls in Science! 🎉🤓
+ 4. I feel so happy with this avatar...Do you want to make your avatar of a scientist? https://picrew.me/image_maker/634561
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Repeat this always ... i can & i will 💜
+![ I can & I will ][D71.1]
+#### For more curious nerds ♡ 🤓 📚👩🏻‍🔬👩🏻‍💻....Happy International Day of Women and Girls in Science! 🎉🤓
+![ Happy International Day of Women and Girls in Science ][D71.2]
+####  I feel so happy with this avatar
+![  I feel so happy with this avatar ][D71.3]
 
