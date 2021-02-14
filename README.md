@@ -170,10 +170,8 @@
 [D71.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.1%20DT.jpg
 [D71.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.2%20DT.jpg
 [D71.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.3%20DT.png
-[D72.1]: . 
-[D72.2]: .
-[D73.1]: . 
-[D73.2]: .
+[D73.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D73%20D66_sg_spanish_8.png
+[D73.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D73%20D63%20sg_spanish%20meeting%208.jpg
 [D74.1]: .
 [D74.2]: .
 [D75.1]: . 
@@ -185,6 +183,8 @@
 [D78.1]: .
 [D78.2]: .
 [D79.1]: .
+[D80.1]: . 
+[D80.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1342,3 +1342,16 @@ My progress log link on github
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
 
 
+
+## Day 73 - D66 #60daysofudacity : Saturday, February  13, 2021 
+
+ 1. Today we had the 8th study meeting #sg_spanish yeiii! @Priscila Espinoza gave us a great presentation about categorical features, It was a great talk Pris. Thanks for coming Thanks for your attendance @Sandra @Priscila Espinoza @Edgar Chacon @Nicolás Campos @Jaime González @susyjam.I already missed having this type of meeting 
+ 2. Hoy leí sobre el cálculo del coeficiente de correlación de Pearson en Python con Numpy https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### 8th meeting with the study group #sg_spanish 
+![8th meeting with the study group #sg_spanish  ][D73.1] 
+![8th meeting with the study group #sg_spanish yeiii ][D73.2] 
