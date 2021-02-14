@@ -1346,7 +1346,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ## Day 73 - D66 #60daysofudacity : Saturday, February  13, 2021 
 
  1. Today we had the 8th study meeting #sg_spanish yeiii! @Priscila Espinoza gave us a great presentation about categorical features, It was a great talk Pris. Thanks for coming Thanks for your attendance @Sandra @Priscila Espinoza @Edgar Chacon @Nicolás Campos @Jaime González @susyjam.I already missed having this type of meeting 
- 2. Hoy leí sobre el cálculo del coeficiente de correlación de Pearson en Python con Numpy https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
+ 2. Today I read about Calculating Pearson Correlation Coefficient in Python with Numpy https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
  
 My progress log link on github
 
