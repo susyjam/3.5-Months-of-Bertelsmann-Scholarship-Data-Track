@@ -172,8 +172,8 @@
 [D71.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D71%20D64.3%20DT.png
 [D73.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D73%20D66_sg_spanish_8.png
 [D73.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D73%20D63%20sg_spanish%20meeting%208.jpg
-[D74.1]: .
-[D74.2]: .
+[D74.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/2do%20meeting%20Diplomado.png
+[D74.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D74%20D67%20DT.jpg
 [D75.1]: . 
 [D75.2]: .
 [D76.1]: . 
@@ -1355,3 +1355,19 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 #### 8th meeting with the study group #sg_spanish 
 ![8th meeting with the study group #sg_spanish  ][D73.1] 
 ![8th meeting with the study group #sg_spanish yeiii ][D73.2] 
+
+
+## Day 74 - D67 #60daysofudacity : Sunday, February  14, 2021 
+
+ 1. Today I had a meeting with the guys from the higher education diploma
+ 2. Today is valentine!! I hope you had a great time. I would like to share with you this beautiful phrase ... A friend is what the heart needs all the time... Happy Valentine's day 💜
+ 3. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### Meeting with the guys from the higher education diploma
+![meeting with the guys from the higher education diploma  ][D74.1] 
+#### Happy Valentine's day
+![Happy Valentine's day ][D74.2] 
