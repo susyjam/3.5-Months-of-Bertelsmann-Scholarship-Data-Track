@@ -174,8 +174,8 @@
 [D73.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D73%20D63%20sg_spanish%20meeting%208.jpg
 [D74.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/2do%20meeting%20Diplomado.png
 [D74.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D74%20D67%20DT.jpg
-[D75.1]: . 
-[D75.2]: .
+[D75.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/3er%20meeting%20Diplomado.png
+[D75.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D75%20D68%20DT.png
 [D76.1]: . 
 [D76.2]: .
 [D77.1]: . 
@@ -1371,3 +1371,21 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![meeting with the guys from the higher education diploma  ][D74.1] 
 #### Happy Valentine's day
 ![Happy Valentine's day ][D74.2] 
+
+
+## Day 75 - D68 #60daysofudacity : Monday, February  15, 2021 
+
+ 1. Today I had a 3th meeting with the guys from the higher education diploma, I really like to attend these classes since it I learns a little more about how I could share knowledge knowing how human beings think.
+ 2. My quote of the day: Let's root for each other and watch each other grow💜
+ 3. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### 3th Meeting with the guys from the higher education diploma
+![meeting with the guys from the higher education diploma  ][D75.1] 
+#### My quote of the day: Let's root for each other and watch each other grow💜
+![Happy Valentine's day ][D75.2] 
+
+
