@@ -1389,3 +1389,12 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![Happy Valentine's day ][D75.2] 
 
 
+
+## Day 76 - D69 #60daysofudacity : Tuesday, February  16, 2021 
+
+ 1. Yesterday and today was a holiday in my city so I took some time to spend with my family in addition to enjoying some chocolate and watching movies.
+ 2. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
