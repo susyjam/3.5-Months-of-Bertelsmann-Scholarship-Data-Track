@@ -1403,7 +1403,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 ## Day 77 - D70 #60daysofudacity : Wednesday, February  17, 2021 
 
- 1. Today we had a meeting with the #sg_spanish_english group it was good to see them for a long time and talk to everyone
+ 1. Today we had a meeting with the #sg_spanish_english group it was good to see them for a long time and talk to everyone @maibelca @PuzzleDots @Edgar Chacon 
  2. Today I continued with the Machine Learning Engineer with Microsoft Azure course
  3. My quote of the day: “If you want something you have never had, you must be willing to do something you have never done.”— Thomas Jefferson
  
