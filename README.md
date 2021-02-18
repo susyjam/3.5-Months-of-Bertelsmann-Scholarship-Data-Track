@@ -176,15 +176,15 @@
 [D74.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D74%20D67%20DT.jpg
 [D75.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/3er%20meeting%20Diplomado.png
 [D75.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D75%20D68%20DT.png
-[D76.1]: . 
-[D76.2]: .
-[D77.1]: . 
-[D77.2]: .
+[D77.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.1.jpg
+[D77.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.2.png
 [D78.1]: .
 [D78.2]: .
 [D79.1]: .
 [D80.1]: . 
 [D80.2]: .
+[D81.1]: . 
+[D81.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1398,3 +1398,20 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 My progress log link on github
 
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+
+
+## Day 77 - D70 #60daysofudacity : Wednesday, February  17, 2021 
+
+ 1. Today we had a meeting with the #sg_spanish_english group it was good to see them for a long time and talk to everyone
+ 2. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 3. My quote of the day: “If you want something you have never had, you must be willing to do something you have never done.”— Thomas Jefferson
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: “If you want something you have never had, you must be willing to do something you have never done.”— Thomas Jefferson
+![Thomas Jefferson][D77.1]
+#### Meeting with the study group #sg_spanish_english 
+![Meeting with the study group #sg_spanish_english  ][D77.2] 
