@@ -178,7 +178,7 @@
 [D75.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D75%20D68%20DT.png
 [D77.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.1.jpg
 [D77.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.2.png
-[D78.1]: .
+[D78.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D78%20D71%20DT.1.jpg
 [D78.2]: .
 [D79.1]: .
 [D80.1]: . 
@@ -1415,3 +1415,17 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![Thomas Jefferson][D77.1]
 #### Meeting with the study group #sg_spanish_english 
 ![Meeting with the study group #sg_spanish_english  ][D77.2] 
+
+
+## Day 78 - D71 #60daysofudacity : Thursday, February  18, 2021 
+
+ 1. Today I started with the review of Lesson 1: The analytical problem (1.1-1.2)
+ 2. Today I continued with the Machine Learning Engineer with Microsoft Azure course
+ 3. My quote of the day: Small Steps Every Day
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Small Steps Every Day
+![Thomas Jefferson][D78.1]
