@@ -179,7 +179,7 @@
 [D77.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.1.jpg
 [D77.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.2.png
 [D78.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D78%20D71%20DT.1.jpg
-[D78.2]: .
+[D78.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/BoardingPass_MyNameOnFutureMission.png
 [D79.1]: .
 [D80.1]: . 
 [D80.2]: .
@@ -1422,6 +1422,8 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
  1. Today I started with the review of Lesson 1: The analytical problem (1.1-1.2)
  2. Today I continued with the Machine Learning Engineer with Microsoft Azure course
  3. My quote of the day: Small Steps Every Day
+ 4. Today I got my boarding pass to Mars yeiii you can get it in the following https://mars.nasa.gov/participate/send-your-name/future/certificate/123128199582
+Outside of that I'm very excited about NASA's Mars Perseverance rover makes its final descent to the Red Planet. If you missed it you can see it here https://www.youtube.com/watch?v=9OCxouQGnns&feature=emb_logo #CountdownToMars 
  
 My progress log link on github
 
@@ -1429,3 +1431,5 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: Small Steps Every Day
 ![Thomas Jefferson][D78.1]
+#### my boarding pass to Mars
+![my boarding pass to Mars][D78.2]
