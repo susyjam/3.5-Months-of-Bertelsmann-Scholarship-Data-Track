@@ -180,8 +180,8 @@
 [D77.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D77%20D70%20DT.2.png
 [D78.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D78%20D71%20DT.1.jpg
 [D78.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/BoardingPass_MyNameOnFutureMission.png
-[D79.1]: .
-[D80.1]: . 
+[D79.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D79%20D72%20DT.1.jpg
+[D79.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4th%20meeting%20diplomado.png
 [D80.2]: .
 [D81.1]: . 
 [D81.2]: .
@@ -1433,3 +1433,19 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![Thomas Jefferson][D78.1]
 #### my boarding pass to Mars
 ![my boarding pass to Mars][D78.2]
+
+
+## Day 79 - D72 #60daysofudacity : Friday, February  19, 2021 
+
+ 1. Today I continued with the review of Lesson 1: The analytical problem (1.3-1.5)
+ 2. My quote of the day: A little progress each day adds up to big results
+ 3. Today I had a 4th meeting with the guys from the higher education diploma
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  A little progress each day adds up to big results
+![ A little progress each day adds up to big results][D79.1]
+####  4 th Meeting with the guys from the higher education diploma
+![Meeting with the guys from the higher education diploma][D79.2]
