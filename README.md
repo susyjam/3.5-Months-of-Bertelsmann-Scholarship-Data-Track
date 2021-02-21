@@ -182,9 +182,47 @@
 [D78.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/BoardingPass_MyNameOnFutureMission.png
 [D79.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D79%20D72%20DT.1.jpg
 [D79.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4th%20meeting%20diplomado.png
-[D80.2]: .
+[D80.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D80%20D73%20DT.1.jpg
 [D81.1]: . 
 [D81.2]: .
+[D82.1]: . 
+[D82.2]: .
+[D83.1]: . 
+[D83.2]: .
+[D84.1]: . 
+[D84.2]: .
+[D85.1]: . 
+[D85.2]: .
+[D86.1]: . 
+[D86.2]: .
+[D87.1]: . 
+[D87.2]: .
+[D88.1]: . 
+[D88.2]: .
+[D89.1]: . 
+[D89.2]: .
+[D90.1]: . 
+[D90.2]: .
+[D91.1]: . 
+[D91.2]: .
+[D92.1]: . 
+[D92.2]: .
+[D93.1]: . 
+[D93.2]: .
+[D94.1]: . 
+[D94.2]: .
+[D95.1]: . 
+[D95.2]: .
+[D96.1]: . 
+[D96.2]: .
+[D97.1]: . 
+[D97.2]: .
+[D98.1]: . 
+[D98.2]: .
+[D99.1]: . 
+[D99.2]: .
+[D100.1]: . 
+[D100.2]: .
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1449,3 +1487,16 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ A little progress each day adds up to big results][D79.1]
 ####  4 th Meeting with the guys from the higher education diploma
 ![Meeting with the guys from the higher education diploma][D79.2]
+
+
+## Day 80 - D73 #60daysofudacity : Saturday, February  20, 2021 
+
+ 1. Today I continued with the review of Lesson 1: The analytical problem (1.6-1.8)
+ 2. My quote of the day: Never give up because great things take time
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day:  Never give up because great things take time
+![ Never give up because great things take time][D80.1]
