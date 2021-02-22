@@ -183,8 +183,7 @@
 [D79.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D79%20D72%20DT.1.jpg
 [D79.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4th%20meeting%20diplomado.png
 [D80.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D80%20D73%20DT.1.jpg
-[D81.1]: . 
-[D81.2]: .
+[D81.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D81%20D74%20DT.1.jpg
 [D82.1]: . 
 [D82.2]: .
 [D83.1]: . 
@@ -1500,3 +1499,18 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day:  Never give up because great things take time
 ![ Never give up because great things take time][D80.1]
+
+
+## Day 81 - D74 #60daysofudacity : Sunday, February  21, 2021 
+
+ 1. Today I continued with the review of Lesson 1: The analytical problem (1.9)
+ 2. Today I stared with the review of Lesson 2: Selecting an Analytical Framework(2.1-2.2) 
+ 3. My quote of the day: Today's pain is tomorrow's power... Your sacrifice has a reward.
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Today's pain is tomorrow's power... Your sacrifice has a reward.
+![ Today's pain is tomorrow's power... Your sacrifice has a reward. ][D81.1]
+
