@@ -186,8 +186,7 @@
 [D81.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D81%20D74%20DT.1.jpg
 [D82.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D82%20D75%20DT.1.jpg
 [D82.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/5th%20meeting%20diplomado%20.png
-[D83.1]: . 
-[D83.2]: .
+[D83.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D83%20D76%20DT.jpg
 [D84.1]: . 
 [D84.2]: .
 [D85.1]: . 
@@ -1532,3 +1531,21 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ Focus on the goal not the obstacles ][D82.1]
 #### 5th Meeting with the guys from the higher education diploma
 ![meeting with the guys from the higher education diploma  ][D82.2] 
+
+
+## Day 83 - D76 #60daysofudacity : Tuesday, February  23, 2021 
+
+ 1. Today I continued with the review of Lesson 2: Selecting an Analytical Framework(2.6-2.8) 
+ 2. I will start by sharing some music these days, I hope you like the music I share. Note: the language and genre may vary, I will try not to be so cheesy. I will start with this song that I like a lot because it tends to raise my spirits. https://youtu.be/RglMIKG0GFw
+ 3. My quote of the day: One small, positive thought in the morning can change your whole day.
+ 4. I really liked this article https://realpython.com/what-can-i-do-with-python/
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: One small, positive thought in the morning can change your whole day.
+![ One small, positive thought in the morning can change your whole day][D83.1]
+
+
+
