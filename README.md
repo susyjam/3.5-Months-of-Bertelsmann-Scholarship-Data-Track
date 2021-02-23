@@ -184,8 +184,8 @@
 [D79.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4th%20meeting%20diplomado.png
 [D80.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D80%20D73%20DT.1.jpg
 [D81.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D81%20D74%20DT.1.jpg
-[D82.1]: . 
-[D82.2]: .
+[D82.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D82%20D75%20DT.1.jpg
+[D82.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/5th%20meeting%20diplomado%20.png
 [D83.1]: . 
 [D83.2]: .
 [D84.1]: . 
@@ -1514,3 +1514,21 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 #### My quote of the day: Today's pain is tomorrow's power... Your sacrifice has a reward.
 ![ Today's pain is tomorrow's power... Your sacrifice has a reward. ][D81.1]
 
+
+
+## Day 82 - D75 #60daysofudacity : Monday, February  22, 2021 
+
+ 1. Today I continued with the review of Lesson 2: Selecting an Analytical Framework(2.3-2.5) 
+ 2. Today I had a meeting with a girl to organize a hakaton so that girls between 12 and 18 years old can apply artificial intelligence in solutions for their environment. Many doubts arose, among them is: How could I easily teach machine learning to girls so that they can apply it in a project in just 72 hours?
+ 3. My quote of the day: Focus on the goal not the obstacles
+ 4. Today I had a 5th meeting with the guys from the higher education diploma
+
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Focus on the goal not the obstacles
+![ Focus on the goal not the obstacles ][D82.1]
+#### 5th Meeting with the guys from the higher education diploma
+![meeting with the guys from the higher education diploma  ][D82.2] 
