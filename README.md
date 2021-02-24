@@ -187,8 +187,8 @@
 [D82.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D82%20D75%20DT.1.jpg
 [D82.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/5th%20meeting%20diplomado%20.png
 [D83.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D83%20D76%20DT.jpg
-[D84.1]: . 
-[D84.2]: .
+[D84.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D84%20D77.1%20DT.jpg
+[D84.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/susyjam%20IWD.png
 [D85.1]: . 
 [D85.2]: .
 [D86.1]: . 
@@ -1548,4 +1548,19 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ One small, positive thought in the morning can change your whole day][D83.1]
 
 
+## Day 84 - D77 #60daysofudacity : Wednesday, February  24, 2021 
 
+ 1. Today I continued with the review of Lesson 2: Selecting an Analytical Framework(2.9-2.13) 
+ 2. The song of the day is https://youtu.be/7wtfhZwyrcc Because the rhythm of this song always fills me with a lot of energy
+ 3. My quote of the day: Believing in yourself is the first secret to success
+ 4. They invited me to give a motivational talk for International Women's Day. And I'm a bit nervous since I hadn't given a talk in a long time. It will be about how I encouraged myself to apply for udacity scholarships with the aim that more girls apply for any type of scholarship in different areas, since there are not many Bolivian girls who apply to this type of activity. What advice would you give me?
+By the way I share the link of the publication in case you want to see it https://www.facebook.com/GDGCochabamba/photos/a.146348748844295/2401616669984147/
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Believing in yourself is the first secret to success
+![ One small, positive thought in the morning can change your whole day][D84.1]
+#### Take the step IWD Susyjam
+![ Take the step IWD Susyjam][D84.2]
