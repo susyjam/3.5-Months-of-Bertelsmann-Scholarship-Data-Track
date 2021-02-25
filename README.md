@@ -189,8 +189,7 @@
 [D83.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D83%20D76%20DT.jpg
 [D84.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D84%20D77.1%20DT.jpg
 [D84.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/susyjam%20IWD.png
-[D85.1]: . 
-[D85.2]: .
+[D85.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D85%20D78.1%20DT.jpg
 [D86.1]: . 
 [D86.2]: .
 [D87.1]: . 
@@ -1564,3 +1563,17 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![ One small, positive thought in the morning can change your whole day][D84.1]
 #### Take the step IWD Susyjam
 ![ Take the step IWD Susyjam][D84.2]
+
+
+## Day 85 - D78 #60daysofudacity : Thursday, February  25, 2021 
+
+ 1. Today I stared with the review of Lesson 3: Linear Regression (3.1-3.4) 
+ 2. The song of the day is https://youtu.be/52nfjRzIaj8 Because it is a very sweet song
+ 3. My quote of the day: Only you can make it happen
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Only you can make it happen
+![Only you can make it happen][D85.1]
