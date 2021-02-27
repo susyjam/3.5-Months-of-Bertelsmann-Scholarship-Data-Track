@@ -1577,3 +1577,16 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: Only you can make it happen
 ![Only you can make it happen][D85.1]
+
+## Day 86 - D79 #60daysofudacity : Friday, February  25, 2021 
+
+ 1. Today I stared with the review of Lesson 3: Linear Regression (3.5-3.8) 
+ 2. The song of the day is https://youtu.be/52nfjRzIaj8 Because it is a very sweet song
+ 3. My quote of the day: Only you can make it happen
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+#### My quote of the day: Only you can make it happen
+![Only you can make it happen][D85.1]
