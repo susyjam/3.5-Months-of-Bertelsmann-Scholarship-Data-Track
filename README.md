@@ -192,7 +192,7 @@
 [D85.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D85%20D78.1%20DT.jpg
 [D86.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D86%20D79.1%20DT.jpg
 [D86.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting%206%20diplomado.png
-[D87.1]: . 
+[D87.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D87%20D80.1%20DT.jpg
 [D87.2]: .
 [D88.1]: . 
 [D88.2]: .
@@ -1592,7 +1592,24 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 
 #### My quote of the day: Start Now
-![Only you can make it happen][D86.1]
+![ Start Now ][D86.1]
 ####  6th Meeting with the guys from the higher education diploma
 ![Meeting with the guys from the higher education diploma][D86.2]
+
+
+
+## Day 87 - D80 #60daysofudacity : Saturday, February  26, 2021 
+
+ 1. Today I stared with the review of Lesson 3: Linear Regression (3.9-3.12) 
+ 2. The song of the day is https://youtu.be/NdFdxocjmQI I love the rhythm of this song and if it is in Korean
+ 3. My quote of the day: I focus on what I can contrl and I let go of what I can't
+
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### My quote of the day: I focus on what I can contrl and I let go of what I can't
+![I focus on what I can contrl and I let go of what Ican't][D87.1]
 
