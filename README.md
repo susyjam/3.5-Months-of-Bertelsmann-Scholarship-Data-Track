@@ -190,8 +190,8 @@
 [D84.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D84%20D77.1%20DT.jpg
 [D84.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/susyjam%20IWD.png
 [D85.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D85%20D78.1%20DT.jpg
-[D86.1]: . 
-[D86.2]: .
+[D86.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D86%20D79.1%20DT.jpg
+[D86.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting%206%20diplomado.png
 [D87.1]: . 
 [D87.2]: .
 [D88.1]: . 
@@ -1581,12 +1581,18 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ## Day 86 - D79 #60daysofudacity : Friday, February  25, 2021 
 
  1. Today I stared with the review of Lesson 3: Linear Regression (3.5-3.8) 
- 2. The song of the day is https://youtu.be/52nfjRzIaj8 Because it is a very sweet song
- 3. My quote of the day: Only you can make it happen
+ 2. The song of the day is https://youtu.be/k4V3Mo61fJM I love this song
+ 3. My quote of the day: Start Now
+ 4. Today I had a 6th meeting with the guys from the higher education diploma
+ 5. Hos was preparing my presentations for Saturday and Sunday. It has been a very heavy day
  
 My progress log link on github
 
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
 
-#### My quote of the day: Only you can make it happen
-![Only you can make it happen][D85.1]
+
+#### My quote of the day: Start Now
+![Only you can make it happen][D86.1]
+####  6th Meeting with the guys from the higher education diploma
+![Meeting with the guys from the higher education diploma][D86.2]
+
