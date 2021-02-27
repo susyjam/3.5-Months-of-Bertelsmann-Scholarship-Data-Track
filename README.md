@@ -1578,7 +1578,8 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 #### My quote of the day: Only you can make it happen
 ![Only you can make it happen][D85.1]
 
-## Day 86 - D79 #60daysofudacity : Friday, February  25, 2021 
+
+## Day 86 - D79 #60daysofudacity : Friday, February  26, 2021 
 
  1. Today I stared with the review of Lesson 3: Linear Regression (3.5-3.8) 
  2. The song of the day is https://youtu.be/k4V3Mo61fJM I love this song
@@ -1598,7 +1599,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 
 
-## Day 87 - D80 #60daysofudacity : Saturday, February  26, 2021 
+## Day 87 - D80 #60daysofudacity : Saturday, February  27, 2021 
 
  1. Today I stared with the review of Lesson 3: Linear Regression (3.9-3.12) 
  2. The song of the day is https://youtu.be/NdFdxocjmQI I love the rhythm of this song and if it is in Korean
