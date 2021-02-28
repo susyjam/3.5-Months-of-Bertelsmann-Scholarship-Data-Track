@@ -193,9 +193,9 @@
 [D86.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D86%20D79.1%20DT.jpg
 [D86.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting%206%20diplomado.png
 [D87.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D87%20D80.1%20DT.jpg
-[D87.2]: .
-[D88.1]: . 
-[D88.2]: .
+[D87.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/9th%20meeting%20sg_spanish.png
+[D87.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/my%20talk%20to%20IWD.png
+[D88.1]: .
 [D89.1]: . 
 [D89.2]: .
 [D90.1]: . 
@@ -1604,6 +1604,9 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
  1. Today I stared with the review of Lesson 3: Linear Regression (3.9-3.12) 
  2. The song of the day is https://youtu.be/NdFdxocjmQI I love the rhythm of this song and if it is in Korean
  3. My quote of the day: I focus on what I can contrl and I let go of what I can't
+ 4. Today we had the 9th study group #sg_spanish meeting yeiii! @Edgar Chacon gave us a great insight into solving real life problems in excel. Thanks for coming Thanks for your attendance @Sandra @Priscila Espinoza @Edgar Chacon @Nicolás Campos  @susyjam 
+ 5. Today I gave a nice talk telling a little about my experience applying for scholarships at the Road to International women day event in my city
+ 6. I'm still working on my presentation tomorrow and on pending tasks for the diploma
 
  
 My progress log link on github
@@ -1613,4 +1616,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: I focus on what I can contrl and I let go of what I can't
 ![I focus on what I can contrl and I let go of what Ican't][D87.1]
-
+#### 9th study group #sg_spanish meeting
+![9th study group #sg_spanish meeting][D87.2]
+#### My nice talk Road to IWD
+![nice talk][D87.3]
