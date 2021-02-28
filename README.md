@@ -1581,7 +1581,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 ## Day 86 - D79 #60daysofudacity : Friday, February  26, 2021 
 
- 1. Today I stared with the review of Lesson 3: Linear Regression (3.5-3.8) 
+ 1. Today I continued with the review of Lesson 3: Linear Regression (3.5-3.8) 
  2. The song of the day is https://youtu.be/k4V3Mo61fJM I love this song
  3. My quote of the day: Start Now
  4. Today I had a 6th meeting with the guys from the higher education diploma
@@ -1601,7 +1601,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 ## Day 87 - D80 #60daysofudacity : Saturday, February  27, 2021 
 
- 1. Today I stared with the review of Lesson 3: Linear Regression (3.9-3.12) 
+ 1. Today I continued with the review of Lesson 3: Linear Regression (3.9-3.12) 
  2. The song of the day is https://youtu.be/NdFdxocjmQI I love the rhythm of this song and if it is in Korean
  3. My quote of the day: I focus on what I can contrl and I let go of what I can't
  4. Today we had the 9th study group #sg_spanish meeting yeiii! @Edgar Chacon gave us a great insight into solving real life problems in excel. Thanks for coming Thanks for your attendance @Sandra @Priscila Espinoza @Edgar Chacon @Nicolás Campos  @susyjam 
@@ -1622,14 +1622,13 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![nice talk][D87.3]
 
 
-## Day 88 - D80 #60daysofudacity : Saturday, February  27, 2021 
+## Day 88 - D80 #60daysofudacity : Sunday, February  28, 2021 
 
- 1. Today I stared with the review of Lesson 3: Linear Regression (3.9-3.12) 
- 2. The song of the day is https://youtu.be/NdFdxocjmQI I love the rhythm of this song and if it is in Korean
- 3. My quote of the day: I focus on what I can contrl and I let go of what I can't
- 4. Today we had the 9th study group #sg_spanish meeting yeiii! @Edgar Chacon gave us a great insight into solving real life problems in excel. Thanks for coming Thanks for your attendance @Sandra @Priscila Espinoza @Edgar Chacon @Nicolás Campos  @susyjam 
- 5. Today I gave a nice talk telling a little about my experience applying for scholarships at the Road to International women day event in my city
- 6. I'm still working on my presentation tomorrow and on pending tasks for the diploma
+ 1. Today I continued with the review of Lesson 3: Linear Regression (3.13-3.16) 
+ 2. The song of the day is https://youtu.be/gVP9xLQIBwI A song that I love, it is a love song... the song is in Spanish
+ 3. My quote of the day: Become the change
+ 4. Today I participated in a talk focused on cybersecurity, I was very curious about the relationship of two areas such as machine learning and cybersecurity, it is a part that if I would like to deepen. I realized that I have a lot to learn and that excites me a lot.
+ 5. I'm still working on some projects ... it was a very heavy week
 
  
 My progress log link on github
@@ -1637,9 +1636,6 @@ My progress log link on github
 Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
 
 
-#### My quote of the day: I focus on what I can contrl and I let go of what I can't
-![I focus on what I can contrl and I let go of what Ican't][D87.1]
-#### 9th study group #sg_spanish meeting
-![9th study group #sg_spanish meeting][D87.2]
-#### My nice talk Road to IWD
-![nice talk][D87.3]
+#### My quote of the day: Become the change
+![Become the change][D88.1]
+
