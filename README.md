@@ -1622,7 +1622,7 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![nice talk][D87.3]
 
 
-## Day 88 - D80 #60daysofudacity : Sunday, February  28, 2021 
+## Day 88 - D81 #60daysofudacity : Sunday, February  28, 2021 
 
  1. Today I continued with the review of Lesson 3: Linear Regression (3.13-3.16) 
  2. The song of the day is https://youtu.be/gVP9xLQIBwI A song that I love, it is a love song... the song is in Spanish
