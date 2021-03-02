@@ -196,7 +196,7 @@
 [D87.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/9th%20meeting%20sg_spanish.png
 [D87.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/my%20talk%20to%20IWD.png
 [D88.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D88%20D81.1%20DT.jpg
-[D89.1]: . 
+[D89.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D89%20D82.1%20DT.jpg
 [D89.2]: .
 [D90.1]: . 
 [D90.2]: .
@@ -1639,3 +1639,19 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 #### My quote of the day: Become the change
 ![Become the change][D88.1]
 
+
+## Day 89 - D82 #60daysofudacity : Monday, March  1, 2021 
+
+ 1. Today I continued with the review of Lesson 3: Linear Regression (3.17-3.20) 
+ 2. The song of the day is https://www.youtube.com/watch?v=PIh2xe4jnpk A song is cute
+ 3. My quote of the day: Turn the pain into power
+ 4. Today I read something very interesting about linear regression https://medium.com/all-about-ml/linear-regression-d41a6a5dcab6
+
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### My quote of the day: Turn the pain into power
+![Become the change][D89.1]
