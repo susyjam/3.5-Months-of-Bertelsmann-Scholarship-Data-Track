@@ -197,8 +197,7 @@
 [D87.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/my%20talk%20to%20IWD.png
 [D88.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D88%20D81.1%20DT.jpg
 [D89.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D89%20D82.1%20DT.jpg
-[D89.2]: .
-[D90.1]: . 
+[D90.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D90%20D83.1%20DT.jpg
 [D90.2]: .
 [D91.1]: . 
 [D91.2]: .
@@ -1655,3 +1654,18 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: Turn the pain into power
 ![Become the change][D89.1]
+
+## Day 90 - D83 #60daysofudacity : Tuesday, March  2, 2021 
+
+ 1. Today I continued with the review of Lesson 3: Linear Regression (3.21-3.24) 
+ 2. The song of the day is https://youtu.be/4p3cKsDCA0Y A song is awesome
+ 3. My quote of the day: If your dreams don't scare you. they are too small
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### My quote of the day: If your dreams don't scare you. they are too small
+![If your dreams don't scare you. they are too small][D90.1]
+
