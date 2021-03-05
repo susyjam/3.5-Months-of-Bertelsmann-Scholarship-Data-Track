@@ -199,9 +199,8 @@
 [D89.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D89%20D82.1%20DT.jpg
 [D90.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D90%20D83.1%20DT.jpg
 [D91.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D91%20D84.1%20DT.jpg
-[D91.2]: .
-[D92.1]: . 
-[D92.2]: .
+[D92.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D92%20D85%20DT.jpg
+[D92.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting0.png
 [D93.1]: . 
 [D93.2]: .
 [D94.1]: . 
@@ -1682,3 +1681,22 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 #### My quote of the day: If you want it, work for it
 ![If you want it, work for it][D91.1]
+
+
+## Day 92 - D85 #60daysofudacity : Thursday, March  4, 2021 
+
+ 1. Today I Started with the review of Lesson 4:  Practice Project (4.1 - 4.2)
+ 2. The song of the day is https://youtu.be/fJ9rUzIMcZQ A song is awesome
+ 3. My quote of the day: Never give up there is no such thing as an ending just a new beginning
+ 4. Today I had a 8th meeting with the guys from the higher education diploma
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### My quote of the day: Never give up there is no such thing as an ending just a new beginning
+![If you want it, work for it][D92.1]
+
+####  8th Meeting with the guys from the higher education diploma
+![Meeting with the guys from the higher education diploma][D92.2]
