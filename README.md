@@ -201,8 +201,8 @@
 [D91.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D91%20D84.1%20DT.jpg
 [D92.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D92%20D85%20DT.jpg
 [D92.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting0.png
-[D93.1]: . 
-[D93.2]: .
+[D93.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting%2011.png
+[D93.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D93%20D86%20DT.jpg
 [D94.1]: . 
 [D94.2]: .
 [D95.1]: . 
@@ -1700,3 +1700,23 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 ####  8th Meeting with the guys from the higher education diploma
 ![Meeting with the guys from the higher education diploma][D92.2]
+
+
+## Day 93 - D86 #60daysofudacity : Friday, March  5, 2021 
+
+ 1. Today I continued with the review of Lesson 4:  Practice Project (4.3 - 4.5)
+ 2. The song of the day is https://youtu.be/RB-RcX5DS5A A song is so so cute
+ 3. My quote of the day: Find your fire
+ 4. Today I had a 9th meeting with the guys from the higher education diploma
+ 5. Today I had a full day of meetings, a very exhausting day
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### My quote of the day: Find your fire
+![If you want it, work for it][D93.2]
+
+####  9th Meeting with the guys from the higher education diploma
+![Meeting with the guys from the higher education diploma][D93.1]
