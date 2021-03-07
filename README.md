@@ -203,9 +203,13 @@
 [D92.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting0.png
 [D93.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meeting%2011.png
 [D93.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D93%20D86%20DT.jpg
-[D94.1]: . 
-[D94.2]: .
-[D95.1]: . 
+[D94.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/1er%20workshop.png
+[D94.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/study-jam---2.0.png
+[D94.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20D87%20%20studyjam2.0.png
+[D94.4]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20D87%20bingo%202.0%20Data%20Track.png
+[D94.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20D87%20susyjam%20selfi%20challenge.jpg
+[D94.6]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20d87%20dt.jpg
+[D94.7]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/d94%20D87%20SJ2.jpeg
 [D95.2]: .
 [D96.1]: . 
 [D96.2]: .
@@ -1720,3 +1724,30 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 
 ####  9th Meeting with the guys from the higher education diploma
 ![Meeting with the guys from the higher education diploma][D93.1]
+
+
+## Day 94 - D87 #60daysofudacity : Saturday, March  6, 2021 
+
+ 1. Today I continued with the review of Lesson 4:  Practice Project (4.6 - 4.7)
+ 2. I shared my bingo card, I love doing these activities, I hope you have enjoyed Bingo a lot
+ 3. Make the study jam 2.0 badge, hope you all like it very much
+ 4. I attended several webinars that I loved
+ 5. Today we start with the first Girls in AI Hackathon Bolivia workshop, it was a very nice event, behind there is a wonderful team
+ 6. I participated in the Selfie challenge
+ 
+ 
+My progress log link on github
+
+Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### Bingo
+![Bingo][D94.4]
+#### study jam 2.0 badge
+![study jam 2.0 badge][D94.2]
+####  Vinayak Kambhampati ( @Vin) will be hosting "Linear Regression in Python using Stat-Models
+![Vinayak Kambhampati ( @Vin) will be hosting "Linear Regression in Python using Stat-Modelsa][D94.7]
+#### Selfie Challenge
+![Selfie Challenge][D94.5]
+#### first Girls in AI Hackathon Bolivia workshop
+![first Girls in AI Hackathon Bolivia workshop][D94.1]
