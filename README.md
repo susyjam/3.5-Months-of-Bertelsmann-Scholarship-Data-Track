@@ -210,7 +210,8 @@
 [D94.5]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20D87%20susyjam%20selfi%20challenge.jpg
 [D94.6]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D94%20d87%20dt.jpg
 [D94.7]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/d94%20D87%20SJ2.jpeg
-[D95.2]: .
+[D95.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/image%20(3).png
+[D95.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/image%20(5).png
 [D96.1]: . 
 [D96.2]: .
 [D97.1]: . 
@@ -1751,3 +1752,23 @@ Today I want to motivate @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinas
 ![Selfie Challenge][D94.5]
 #### first Girls in AI Hackathon Bolivia workshop
 ![first Girls in AI Hackathon Bolivia workshop][D94.1]
+
+
+## Day 95 - D88 #60daysofudacity : Sunday, March  7, 2021 
+
+ 1. Today I finished with the review of Lesson 4:  Practice Project (4.8 - 4.9)
+ 2. Today I had a meeting with my team from the higher education diploma.
+ 3. Today in my city there was a vote, we had to vote for who we want to be our mayor, it was a very heavy day because there was not much care with the biosafety protocols in addition to little organization.
+ 4. Love this collage "You are the digital future"  that I make @birozso is great
+ 5. My quote of the day: Tips for motivation learning to code
+ 
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### "You are the digital future"
+!["You are the digital future"][D95.2]
+#### My quote of the day: Tips for motivation learning to code
+![My quote of the day: Tips for motivation learning to code][D95.1]
