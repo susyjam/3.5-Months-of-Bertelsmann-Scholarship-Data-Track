@@ -212,10 +212,10 @@
 [D94.7]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/d94%20D87%20SJ2.jpeg
 [D95.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/image%20(3).png
 [D95.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/image%20(5).png
-[D96.1]: . 
-[D96.2]: .
-[D97.1]: . 
-[D97.2]: .
+[D96.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/HIWD.png
+[D96.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D96%20D89%20DT.png
+[D96.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/courage%20to%20create%20IWD.jpg
+[D97.1]: .
 [D98.1]: . 
 [D98.2]: .
 [D99.1]: . 
@@ -1772,3 +1772,27 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 !["You are the digital future"][D95.2]
 #### My quote of the day: Tips for motivation learning to code
 ![My quote of the day: Tips for motivation learning to code][D95.1]
+
+
+## Day 96 - D89 #60daysofudacity : Monday, March  8, 2021 
+
+ 1. Today I started with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
+ 2. My quote of the day: Life is tough, my darling, but so are you.-Stephanie Bennett-Henry
+ 3. Happy International Women's Day! I hope each of you had a great day. Remember that you are all great that you can do whatever you want! For more women who fight for their dreams! PS: This image was made by me for an artificial intelligence hackathon for women and girls.
+ 4. Courage to create IWD- Women Techmakers
+
+ 
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### Happy International Women's Day!
+![Happy International Women's Day!][D96.1]
+#### Courage to create IWD- Women Techmakers
+![Courage to create IWD- Women Techmakers][D96.3]
+#### My quote of the day: Life is tough, my darling, but so are you.-Stephanie Bennett-Henry
+![Life is tough, my darling, but so are you.-Stephanie Bennett-Henry][D96.2]
+
+
