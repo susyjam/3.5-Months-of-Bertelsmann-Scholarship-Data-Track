@@ -215,8 +215,8 @@
 [D96.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/HIWD.png
 [D96.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D96%20D89%20DT.png
 [D96.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/courage%20to%20create%20IWD.jpg
-[D97.1]: .
-[D98.1]: . 
+[D97.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meet%20DESBC.png
+[D97.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/workshop%202%20.png 
 [D98.2]: .
 [D99.1]: . 
 [D99.2]: .
@@ -1796,3 +1796,18 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 ![Life is tough, my darling, but so are you.-Stephanie Bennett-Henry][D96.2]
 
 
+## Day 97 - D90 #60daysofudacity : Tuesday, March  9, 2021 
+
+ 1. Today I continued with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
+ 2. Today I had a meeting with my team from the higher education diploma.
+ 3. Today we continued with the second Girls in AI Hackathon Bolivia workshop.
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+#### 10th meeting with my team from the higher education diploma.
+![10th meeting ][D97.1]
+#### Second Girls in AI Hackathon Bolivia workshop
+![second Girls in AI Hackathon Bolivia workshop][D97.2]
