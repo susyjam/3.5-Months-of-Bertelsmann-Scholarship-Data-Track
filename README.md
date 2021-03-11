@@ -1811,3 +1811,13 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 ![10th meeting ][D97.1]
 #### Second Girls in AI Hackathon Bolivia workshop
 ![second Girls in AI Hackathon Bolivia workshop][D97.2]
+
+
+## Day 98 - D91 #60daysofudacity : Wednesday, March  10, 2021 
+
+ 1. Today I continued with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
