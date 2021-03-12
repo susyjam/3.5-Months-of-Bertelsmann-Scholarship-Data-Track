@@ -217,7 +217,7 @@
 [D96.3]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/courage%20to%20create%20IWD.jpg
 [D97.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/meet%20DESBC.png
 [D97.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/workshop%202%20.png 
-[D98.2]: .
+[D99.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/3er%20workshop.png
 [D99.1]: . 
 [D99.2]: .
 [D100.1]: . 
@@ -1821,3 +1821,17 @@ My progress log link on github
 
 Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
 
+
+## Day 99 - D92 #60daysofudacity : Thursday , March  11, 2021 
+
+ 1. Today I continued with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
+ 2. Today we continued with the 3th Girls in AI Hackathon Bolivia workshop.
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+
+
+#### 3th Girls in AI Hackathon Bolivia workshop
+![3th Girls in AI Hackathon Bolivia workshop][D99.1]
