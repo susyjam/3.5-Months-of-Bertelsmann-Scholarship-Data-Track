@@ -221,7 +221,7 @@
 [D100.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/D100%20D93%20DT.png
 [D100.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Grace%20day.png
 [D101.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4to%20worshop.png
-[D102.1]: .
+[D102.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/11%20reunion%20sg_spansish.png
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1853,7 +1853,7 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 ## Day 101 - D94 #60daysofudacity : Saturday , March  13, 2021 
 
  1. Today I continued with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
- 2. Today we continued with the 3th Girls in AI Hackathon Bolivia workshop.
+ 2. Today we continued with the 4th Girls in AI Hackathon Bolivia workshop.
  
 My progress log link on github
 
@@ -1861,3 +1861,17 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 
 #### 4th Girls in AI Hackathon Bolivia workshop
 ![4th Girls in AI Hackathon Bolivia workshop][D101.1]
+
+
+## Day 102 - D95 #60daysofudacity : Sunday , March  14, 2021 
+
+ 1. Today I continued with the review of Lesson 5:  Project(optional) Predicting Catalog Demand
+ 2. Today I did my diploma task, it was quite intense, but I liked doing it
+ 3. Today we had the 10th study meeting #sg_spanish ... Our last meeting is a moment of mixed feelings, I am very happy to be part of this beautiful group and I really appreciate the support of each one of you throughout these 10 meetings, they are really great! The best group #sg_spanish @Sandra @Priscila Espinoza @Edgar Chacon @ Nicolás Campos @Joaquin @susyjam
+ 
+My progress log link on github
+
+Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira  to continue with great enthusiasm in this learning challenge 💜
+
+#### the 10th study meeting #sg_spanish
+![the 10th study meeting #sg_spanish][D102.1]
