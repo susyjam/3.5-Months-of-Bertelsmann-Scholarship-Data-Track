@@ -222,6 +222,7 @@
 [D100.2]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/Grace%20day.png
 [D101.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/4to%20worshop.png
 [D102.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/11%20reunion%20sg_spansish.png
+[D103.1]: https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track/blob/main/images/data%20track.jpeg
 
 # 3.5 MONTHS OF BERTELSMANN SCHORLARSHIP DATA TRACK
 My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann
@@ -1875,3 +1876,19 @@ Today I want to motivate @maibelca @Charles Van-Hein Sackey @Jonathan Papworth @
 
 #### the 10th study meeting #sg_spanish
 ![the 10th study meeting #sg_spanish][D102.1]
+
+
+
+## Day 103 - D96 #60daysofudacity : Monday , March  15, 2021 
+
+I began to check that I have answered all the questions in all the lessons in addition to downloading the videos.
+Today is the last day of this daily report that I do since I started this challenge, it is nice to have it on github since I can keep a nice memory of the great things we did together.
+I am so excited that I can only say thank you to each of you for being part of this great journey together, without you this would not be so exciting.
+I wish you all the best of luck! 
+
+My progress log link on github
+
+@maibelca @Charles Van-Hein Sackey @Jonathan Papworth @Jessy Chen @iMartins @Frida @Avinash Kumar @Harkirat Singh @LauraT @Smpsnseun.Udacity @Vipul Aggarwal @Oluwatosin @Olga Gnatenko @hilsia @Gustavo @Richard @Aarthi Alagammai @Viena Baca @Sumnima Thapa @maibelca @Guillermo Fontánez @Ghulam Mustafa @Syed Haider Ali Shah @Agni @Haseeb Ahmed Khan @Aishwarya Nevrekar @Ashish Kumar Panigrahy @Priscila Espinoza @Jaime González @Quyen Nguyen @Mark B. @Andre Vandor de Oliveira   💜
+
+#### the 10th study meeting #sg_spanish
+![the 10th study meeting #sg_spanish][D103.1]
